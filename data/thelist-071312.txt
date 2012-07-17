@@ -1,0 +1,2052 @@
+x-store-info:J++/JTCzmObr++wNraA4Pa4f5Xd6uensWQjutc4PB1D2uluMt/6Fmy0ee+8MAuUZYcyn1r2yJeuxTeL2/+mQescmWKj68dl3zfMFeNWZtBkLU2PmBl3KofDLIpmPY+L5GwFx50mBQ0w=
+Authentication-Results: hotmail.com; sender-id=pass (sender IP is 209.128.208.12) header.from=skoepke@calweb.com; dkim=pass (testing mode) header.d=calweb.com; x-hmca=pass
+X-SID-PRA: skoepke@calweb.com
+X-SID-Result: Pass
+X-DKIM-Result: Pass(t)
+X-Message-Status: n:0:n
+X-AUTH-Result: PASS
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0wO0Q9MTtHRD0xO1NDTD0w
+X-Message-Info: aKlYzGSc+LlJaanqXNHffSojiyHYwKhWt/ERV8C/rUXWU2krd5c2dZHMOJ+ZqiyveFa8Umu1glvHlCmAzMClnvYGF/K5mqquAaQMGSo3VxDJMZP0lWC3DLG0pQy88L6BDR5LZv68513k56BVTUaZYw==
+Received: from mail.calweb.com ([209.128.208.12]) by BAY0-MC4-F41.Bay0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4900);
+	 Fri, 13 Jul 2012 19:05:02 -0700
+Received: from mail.calweb.com (localhost [127.0.0.1])
+	by mail.calweb.com (Postfix) with ESMTP id A3AE8175FBB
+	for <vogonj@hotmail.com>; Fri, 13 Jul 2012 19:05:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=calweb.com; h=date:from
+	:message-id:to:subject; s=selector1; bh=HJYw6lmz1tITpRwlwGpfBWvJ
+	E+Y=; b=sThzfvLEkT86MPTbXgw2pEjeGzont4P5Ti2nnqvyw2uAuSufIDINq4i8
+	APhGBqbmW7SsGgHeJqraIaNxAKRk+pIXdmhJ/UQ9+lnVSNnKpMgpI0WuxunrLsEH
+	A6NKAyoD0URLgJwIEPv526YEl1EEhm1TXpJ9Vi9M48WAIR5Nbfs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=calweb.com; h=date:from
+	:message-id:to:subject; q=dns; s=selector1; b=CkbWtjBktNQo3xvk7f
+	mUImdWTm2F9ZFHu8KvmAo+Mw32kN0vMTKPupAu1TI/8TGUZIwf/z4Iwx3xWV1i2D
+	O0kwNIKF/NxnqW+4/F2HUlLIBHoCpZliDmNSnO+y6OAR1GsRKjkyqGiMdDlBHxks
+	vidvxkHq79wwoKuN8V7rOAT6o=
+Received: from web1.calweb.com (web1.calweb.com [209.128.193.67])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.calweb.com (Postfix) with ESMTPS id 9C167175FB6
+	for <vogonj@hotmail.com>; Fri, 13 Jul 2012 19:05:00 -0700 (PDT)
+Received: (from skoepke@localhost)
+	by web1.calweb.com (8.14.4/8.14.4/Submit) id q6E2MGOL040768
+	for vogonj@hotmail.com; Fri, 13 Jul 2012 19:22:16 -0700 (PDT)
+	(envelope-from skoepke)
+Date: Fri, 13 Jul 2012 19:22:16 -0700 (PDT)
+From: Stephen Koepke <skoepke@calweb.com>
+Message-Id: <201207140222.q6E2MGOL040768@web1.calweb.com>
+To: vogonj@hotmail.com
+Subject: The List 07/13 (sf punk/funk/thrash/ska)
+Return-Path: skoepke@web1.calweb.com
+X-OriginalArrivalTime: 14 Jul 2012 02:05:02.0235 (UTC) FILETIME=[1436F6B0:01CD6165]
+
+
+To:  vogonj@hotmail.com <sf-list address: 1477 of 1533>
+
+Here is this week's list
+
+ TTTTTTTTT                        L
+     T     H    H  EEEEEE         L           I     SSSS    TTTTT
+     T     H    H  E              L           I    S          T
+     T     HHHHHH  EEEEE          L           I     SSSS      T
+     T     H    H  E              L           I         S     T
+     T     H    H  E              L           I    S    S     T
+     T     H    H  EEEEEE         LLLLLLL     I     SSSS      T
+
+funk-punk-thrash-ska      Upcoming shows of interest     July 13, 2012
+
+jul 13 fri Punk Funk Mob, Peligro, Moderate Excess, Good Morning, Skin & Bonez
+       at 924 Gilman St., Berkeley a/a $10 7pm *** @
+jul 13 fri Get shot, Zombiedeathfuck, Vaganala, Deep Shit, Kick Me, Spu
+       at B.R.S., Richmond a/a 8pm *** @
+jul 13 fri Retromeca, Major Powers & The Lo-Fi Symphony
+       at Point Richmond Square, Washington Ave. & Park Place, Roint Richmond
+       a/a free 5:30pm **
+jul 13 fri First Contact, Demi And The Gods
+       at Me-n-Ed's Pizza, 3800 Klose Way, Richmond a/a free **
+jul 13 fri Predator Prey (N.Y.C.), Buttholes Urfers (tribue), Sex Party,
+       Flying Teeth (N.Y.C.), Kokomo, Burke And Browns,
+       Old Lady Who Swallowed A Fly (tribute), dj Junkdrawer
+       at Gem&Bolt, 411 2nd Street, Oakland a/a *** @ (new location)
+jul 13 fri Bobby Joe Ebola And The Children MacNuggits,
+       Victoria And The Vaudevillians, The Rockonigles, Sarchasm
+       at the Space Lounge, 2175 Allston Way, Berkeley a/a $6 8pm **
+jul 13 fri Verbal Abuse, Abrupt, Fukm, Raw Dawg, Awsome
+       at the Swamp, Oakland a/a 8pm *** @ (Benefit for Nikky Davis)
+jul 13 fri Malice, Grandma, Aftertayst, Black Mackerel, Cultural Warfare,
+       Ill Content, Archea
+       at the Metro, Oakland a/a $!3 7pm # *** @ (Metal Massacre)
+jul 13 fri Daniella Gordon (Stockholm, Sweden), Magnus Johansson
+       at Art House Gallery, 2905 Shattuck Ave., Berkeley
+       a/a $10-$15 7:30pm/8pm **
+jul 13 fri Almost Dead, Secrets Of The Sky, Absent Soceiety
+       at the New Parish, Oakland 18+ $12/$15 8pm/9pm **
+jul 13 fri Turbonegra, The Bastard Makers
+       at the Lucky 13, 1301 Park St, Alameda 21+ free **
+jul 13 fri Black Cobra, Pins Of Light, Hazzard's Cure, Crypt Keeper
+       at Eli's Mile High Club, Oakland 21+ $8 8pm/9pm ** @
+jul 13 fri Sun Hop Fat, Harry & The Hit Men, On The Spot Trio
+       at Slim's, S.F. 6+ $13/$15 8pm/9pm **
+jul 13 fri Alma Desnuda, Dgiin, Keznamdi
+       at the Great American Music Hall, S.F. 6+ $15 8pm/9pm **
+jul 13 fri Nux Vomica (Portland), Tigon, Embers, Young Lions
+       at thee Parkside, S.F. 21+ $8 9pm ** @
+jul 13 fri James Hunter (Colchester, U.K.), Jesse Dee
+       at Bimbo's 365 Club, S.F. 21+ $25 8pm/9pm *** $
+jul 13 fri Strangelove (tribute), The Reptile House (tribute)
+       at Cafe Du Nord, S.F. 21+ $12 9pm **
+jul 13 fri Icky Boyfriends, Wounded Lion, Spray Paint
+       at the Hemlock, S.F. 21+ $12 9:30pm **
+jul 13 fri The Buttercream Gang, Wave Array, Cash Pony
+       at the Bottom of the Hill, S.F. 21+ $10 8:30pm/9pm **
+jul 13 fri Booker T Jones (2 shows) at Yoshi's, S.F. 21+ $30 8pm $20 10pm **
+jul 13 fri Novalima, Afrolicious, Izzy Wise
+       at the Independent, S.F. 21+ $15/$20 8:30pm/9pm **
+jul 13 fri Bobby Browser, Chautauqua, Yr Skull, dj's
+       at the UndergroundSF, 424 Haight St. at Webster, S.F. 21+ free 9pm **
+jul 13 fri The Devilsown at RKRL, 52 Sixth Street, S.F. 21+ $5/$10 9pm **
+jul 13 fri Freight Train, Binky, Dominion, Revenant, The Stars At Dusk
+       at Broadway Studios, 435 Broadway, S.F. 21+ $5 8pm/8:30pm **
+jul 13 fri Sanctuary Lost, Waxwyng, Fourteen Planets Out To Lunch,
+       Absolute Zero, Walk The Atmosphere
+       at the Phoenix Theater, Petaluma a/a $8 8pm *** @
+jul 13 fri Tangerine Dream at the Uptown Theater, Napa 21+ 8pm **
+jul 13 fri Al Green
+       at Montalvo Arts Center, Saratoga a/a $125-$40 6:30pm/7:30pm **
+jul 13 fri MereSol at 23 Club, Brisbane a/a $5 8:30pm **
+jul 13 fri Whiskey Avengers, Warsaw Poland Brothers, Wet Bandits
+       at the Blank Club, San Jose 21+ $10 9pm **
+jul 13 fri Potluck, Dgaf, Kung Fu Vampire, The Drp
+       at the Catalyst Atrium, Santa Cruz 16+ $12/$15 8:30pm/9pm **
+jul 13 fri Tumbleweed Wanderers (Seattle)
+       at Sophia's Thai Kitchen, 129 E Street, Suite E, Davis 21+ **
+jul 13 fri White Minorities, Some Fear None, Iconoclast Robot, Headlines,
+       Animism at the Ace of Spades, Sacramento a/a *** @
+jul 13 fri Track Fighter (cd release), Over Watch, For All I've Done,
+       Six Weeks Sober, Forces Multiplied, Eternal Dissonance
+       at the Boardwalk, Orangevale a/a $12 6:30pm/7pm ** @
+jul 13 fri Chicago, The Doobie Brothers at Harveys, Lake Tahoe NV ?/? 7pm # ***
+jul 13 fri Fishbone, Wsg's Pyrx
+       at Humboldt Brews, 856 10th at I, Arcata 21+ $20/$25 9:30pm ***
+jul 13/14  The Reverend Horton Heat (Dallas, TX), Supersuckers, Goddam Gallows
+       at the Uptown, Oakland 21+ $20/$25 9pm ***
+jul 14 sat Tinnitus, Laceration, Deathstryke, Vile Mass, Zombie Death Fuck
+       at 924 Gilman Street, Berkeley a/a $8 8pm ** @
+jul 14 sat Casey Chisolm, The Feral Cats, Casy And Brian, Gabe Crane,
+       The Wyatt Act
+       at P.A.C House, 499 Embarcadero W. Bldg. 4 near 5th Ave., Oakland
+       a/a sliding scale 2pm til 8pm ** (5th-Ave-A-Palooza)
+jul 14 sat Major Powers And The Lo-Fi Symphony
+       at Bridge Artspace, 23 Maine, Richmond a/a free 6pm ** (BBQ)
+jul 14 sat Negative Standards, Nux Vomica, Dreaming Dead
+       at the Swamp, Oakland a/a $5 8pm ** @ (new location)
+jul 14 sat Field Trips, Buzzmutt (cassette release), Saything, Tank Attack
+       at Sugar Mountian, Oakland a/a 9pm **
+jul 14 sat Kyle Hollingsworth (with members of Hot Buttered Rum)
+       at Shattuck Down Low, 2284 Shattuck Ave., Berkeley
+       21+ $25 1pm til 5pm ** (Summer of Brews - Benefit Conscious Alliance)
+jul 14 sat Reggae Gold at the New Parish, Oakland 21+ 9pm *
+jul 14 sat Os Beaches, Traveling Circle (N.Y.), 3 Leafs, Disappearing People,
+       dj Jodie Artichoke, dj Lord Troy Corduroy, dj Duke Of Windsor
+       at Eli's Mile High Club, Oakland 21+ 7pm **
+jul 14 sat Huntress, Dreaming Dead, Spiral Arms, Skitzo, Hellfire, Abrupt,
+       Paranoid Freakout at McClearan Park, 40 John F. Shelley Dr., S.F.
+       a/a free 11am til 6pm *** @ (Tidal Wave Metal Fest day 1)
+jul 14 sat Joe Rut, The Low Rollers
+       at Great American Music Hall, S.F. 6+ $14 8pm/9pm **
+jul 14 sat Al Green at Nob Hill Masonic Ctr., S.F. a/a $80-$45 6:30pm/7:30pm **
+jul 14 sat Stomacher, Mister Loveless, Stripmall Architecure, Books On Tape
+       at Slim's, S.F. 6+ $14 8pm/8:30pm ***
+jul 14 sat Please Do Not Fight, Picture Atlantic (cd release),
+       Dogcatcher (cd release), Cold Eskimo (album release)
+       at the Bottom of the Hill, S.F. a/a $10 8:30pm/9pm ***
+jul 14 sat Bankrupt District, Tsubibo, ILL Content, P+, Hemorage
+       at Bindlestiff Studio, 185 Sixth Street at Howard, S.F.
+       a/a $8 7pm/8pm *** @ (no smoking - no alcohol)
+jul 14 sat Go Van Gogh at Revolution, 3248 22nd Street, S.F. a/a **
+jul 14 sat Zodiac Death Valley, Old Testament, Ocha La Rocha (Atlanta),
+       Big Drag, dj Neel N. Kizmiaz
+       at the Brick & Mortar, S.F. 18+ $10/$13 8pm/9pm **
+jul 14 sat Monoshock, Lamps, Musk at the Hemlock, S.F. 21+ $12 9:30pm **
+jul 14 sat Zoo Station (tribute) at Cafe Du Nord, S.F. 21+ $15 9pm **
+jul 14 sat Lazer Wolf, The Breaks at thee Parkside, S.F. a/a free 3pm **
+jul 14 sat Moto, The Meat Sluts, The Coloffs, The Custom Kicks
+       at thee Parkside, S.F. 21+ $8 9pm **
+jul 14 sat Water District (L.A.), The Insufferables
+       at Connecticut Yankee, 100 Connecticut Street, S.F. 21+ **
+jul 14 sat The Phenomenauts, No Alternative, The Hooks, The Fucking Buckaroos
+       at the El Rio, S.F. 21+ $8 3pm/4pm *** @ (early show)
+jul 14 sat Giggle Party, The Dualies, Nomad
+       at the El Rio, S.F. 21+ $7 9pm ** (late show)
+jul 14 sat Street Justice, Awesome, Utter Failure (San Jose)
+       at Bender's, S.F. 21+ $5 8pm/10pm *** @
+jul 14 sat Wally Cutthroat Trio at the Riptide Bar, S.F. 21+ free 9pm/9:30pm **
+jul 14 sat U.S. Air Guitar Championships
+       at the Independent, S.F. 21+ $20 9pm **
+jul 14 sat Lost Dog Found, Smokehouse Gamblers
+       at Last Day Saloon, 120 5th St., Santa Rosa 21+ $10 7:30pm/8pm **
+jul 14 sat Lisa Lampanelli at the Uptown Theater, Napa 21+ 8pm **
+jul 14 sat Five For Fighting, Martin Harley
+       at Robert Mondavi Winery, Oakville 21+ ***
+jul 14 sat Chicago, The Doobie Brothers
+       at the Pavilion, Concord a/a $69-$34 6pm/7pm # *** $
+jul 14 sat Roy Kay, The B-Stars at 23 Club, Brisbane a/a $5 8:30pm **
+jul 14 sat End The Suffering, Face The Pain, Hypnik
+       at Winter's Tavern, Pacifica 21+ **
+jul 14 sat Fast Times at Mojo Lounge, 3714 Peralta Blvd, Fremont 21+ $5 9pm *
+jul 14 sat Steve Miller Band, Pat Benatar, Neil Giraldo, Greg Kihn
+       at Shoreline Amphitheatre, Mountain View a/a # 7pm # *** (KFOX)
+jul 14 sat Tangerine Dream at Mountain Winery, Saratoga a/a **
+jul 14 sat Walking Spanish (Sacramento), Peter Chung
+       at Streetlight Records, San Jose a/a free 4pm **
+jul 14 sat Strange Love (tribute), Erasure-Esque (tribute)
+       at the Blank Club, San Jose 21+ $10 9pm **
+jul 14 sat Wrongdoer, Forgotten Gods, Crypt Keeper
+       at Caravan, 98 South Almaden Ave., San Jose 21+ free 9pm **
+jul 14 sat The Jacka & Husalah, Gaudy Boyz, A-Mad-G
+       at the Ace of Spades, Sacramento a/a **
+jul 14 sat Mercedes Ave, Self Proclaimed, The Somebodys, Yours For A Night,
+       First Class Act, Zen Arcadia
+       at the Boardwalk, Orangevale a/a $10 7pm/8pm **
+jul 14 sat The Spinners at Cache Creek Casino Resort, Brooks 21+ 8pm **
+jul 14 sat Cake at Nevada County Fairgorunds, Grass Valley a/a ***
+jul 14/15  The String Cheese Incident
+       at the Greek Theater, U.C. Berkeley Campus a/a 7pm sat/4pm sun # ***
+jul 14/15 California World Guitar Show
+       at the Event Center, 2945 S. Delaware Street, San Mateo a/a 10am
+jul 15 sun The Story So Far, Seahaven, Stick Up Kid, Troubled Coast, Stateside
+       at 924 Gilman Street, Berkeley a/a $10 5pm *** @
+jul 15 sun Apathetic Ronald McDonald, ACxDC, Wrongdoer, Crypt Keeper,
+       Deadpressure at B.R.S., Richmond a/a 6pm ** @
+jul 15 sun Kenny Chesney, Tim McGraw at the Oakland Coliseum a/a # ***
+jul 15 sun Vandella at Disco Volante, Oakland a/a 7pm *
+jul 15 sun Raw Dog, Black Mackeral, Seeker
+       at Eli's Mile High Club, Oakland 21+ 7pm ** @
+jul 15 sun Ghoul, Slough Feg, Gravehill, Peligro, Haunted By Heroes, Beercraft,
+       Bc3 at McClearan Park, 40 John F. Shelley Dr., S.F.
+       a/a free 11am til 6pm *** @ (Tidal Wave Metal Fest day 2)
+jul 15 sun Aesop Rock, Rob Sonic, dj Big Wiz, Edison, Dark Time Sunshine
+       at the Fillmore, S.F. a/a $22.5 7pm/8pm # **
+jul 15 sun Blue Diamond Fillups, Rocketship Rocketship
+       at thee Parkside, S.F. a/a free 4pm **
+jul 15 sun Thirstbusters, A New Abyss, Walk The Atmosphere, We The Same,
+       The Skunkadelics, October's Desire, Vicious Wishes,
+       Skunk Funk Soundsystem, Avalanche, Road Crew
+       at the DNA Lounge, S.F. a/a $10/$12 5:30pm *** (battle of the bands)
+jul 15 sun Logic & Tayyib Ali
+       at the Brick & Mortar, S.F. 18+ $12.50/$30 7pm/8pm **
+jul 15 sun The Young, Uzi Rash, Synthetic ID
+       at the Hemlock, S.F. 21+ $8 9pm ** @
+jul 15 sun Modern English at the Cafe Du Nord, S.F. 21+ $15 9pm **
+jul 15 sun French Cassettes, Bonnie & The Bang Bang, O Presidente
+       at the Hotel Utah, S.F. 21+ **
+jul 15 sun Reverend Horton Heat (Dallas, TX), Supersuckers, Goddamm Gallows
+       at the Mystic Theater, Petaluma 21+ $23/$26 7pm/8pm ***
+jul 15 sun Foreigner at Mountain Winery, Saratoga a/a # ***
+jul 15 sun Nipsey Hussle, Clyde Carson, Macarther, Noah, Torryey Tee
+       at the Ace of Spades, Sacramento a/a **
+jul 15 sun Citadel, The Captain, Coventry Square, Engraved In Armor,
+       The Chroma Season at the Boardwalk, Orangevale a/a $10/$12 6pm/7pm **
+jul 15 sun The Beach Boys at Harveys, Lake Tahoe NV ?/? 7:30pm # ***
+jul 16 mon Huff Stuff Magazine, Waxahatchee (Philadelphia),
+       Swearin' (Brooklyn), Secret Lover (Worcester)
+       at the Yellow Room, Oakland a/a $5 7pm **
+jul 16 mon Faithless Saints, Dead Ringer, Second Best
+       at Eli's Mile High Club, Oakland 21+ 7pm **
+jul 16 mon Trash Talk (Sacramento), SpaceGhostPurrp (Miami, FL)
+       at Slim's, S.F. 6+ $16 8pm/9pm ** @
+jul 16 mon Frank Ocean at the Regency Ballroom, S.F. a/a 9pm # ** (sold out)
+jul 16 mon Skin Like Iron, Fell To Low, The Vibrating Antennas, Centuries
+       at Sub-Mission Gallery, S.F. a/a $6 7:30pm **
+jul 16 mon Sharaya Mikael, Dustin Ruth, Chris Keene
+       at the Brick & Mortar, S.F. 21+ free 8pm/9pm **
+jul 16 mon Junkdrawer at the Bottom of the Hill, S.F. 21+ free 8:30pm *
+jul 16 mon Aeges, Silver Snakes, Name at the Elbo Room, S.F. 21+ $10 9pm **
+jul 16 mon ZZ Ward at Cafe Du Nord, S.F. 21+ $10/$12 8pm **
+jul 16 mon Common Eider King Eider, John Porras, Meridians, Bill Orcutt
+       at the Hemlock, S.F. 21+ sliding scale 6pm ** (Tom Carter Benefit)
+jul 17 tue Hard Bop Collective at Disco Volante, Oakland a/a 8pm *
+jul 17 tue Oakland Active Orchestra at the Uptown, Oakland 21+ free 9pm **
+jul 17 tue Speed Wolf (CO), Witchaven, Crypt Keeper, Owl
+       at Eli's Mile High Club, Oakland 21+ $8 7pm ** @
+jul 17 tue Diego's Umbrella at the New Parish, Oakland 21+ free 8pm/9pm **
+jul 17 tue Toots And The Maytals, The Lions
+       at the Fillmore, S.F. a/a $28.50 8pm/9pm # ** (new date - was July 14th)
+jul 17 tue Young Magic, Quilt, Shock, dj's
+       at the Rickshaw Stop, S.F. a/a $10/$12 8pm **
+jul 17 tue Shearwater, Husky (Austrailia), Gold Leaves
+       at the Bottom of the Hill, S.F. 21+ $12 8:30pm/9pm **
+jul 17 tue Midtown Social, Midnight Raid, The Winebirds
+       at the Hemlock, S.F. $7 9pm **
+jul 17 tue Ooze, Mystery School, Electro Sonic Chamber
+       at the Brick & Mortar, S.F. 21+ $5/$7 7pm/8pm **
+jul 17 tue Carrie Manolakos at Yoshi's, S.F. 21+ $20 8pm **
+jul 17 tue Glitter Wizard, Rock Bottom, Vanishing Breed, dj Shaxul
+       at the Knockout, S.F. 21+ $6 8:30pm/9:30pm **
+jul 17 tue Ray Davies, The 88 at the Uptown Theater, Napa 21+ 8pm **
+jul 17 tue Demi Lovato, Hot Chelle Rae, Owl City
+       at Event Center, San Jose State a/a 7pm # **
+jul 17 tue Ringo Starr And His All Starr Band
+       at Mountain Winery, Saratoga a/a # ***
+jul 17 tue Willie Nelson
+       at the Catalyst, Santa Cruz 21+ $72/$78 6:30pm/7:30pm ***
+jul 17 tue The Reverend Horton Heat (Dallas, TX), Supersuckers, Goddamn Gallows
+       at the Ace of Spades, Sacramento a/a ***
+jul 17/18  The Bouncing Souls (N.J.), The Menzingers, Luther
+       at Slim's, S.F. 6+ $19/$21 7pm/8pm *** @
+jul 18 wed Black Nature Band at Disco Volante, Oakland a/a $5 8pm **
+jul 18 wed Moth Nor Rust, Angels Of Vice, Black Nails, The Rogers, Grayson
+       at the Stork Club, Oakland 21+ 7pm **
+jul 18 wed The Hundred Days, Fake Your Own Death, Tremor Low, The Blank Tapes
+       at the New Parish, Oakland 21+ $3 8pm/9pm ** @
+jul 18 wed Aziz Ansari
+       at Nob Hill Masonic Center, S.F. a/a $39 6pm/7pm # ** (also Jul 20)
+jul 18 wed Upstairs Downstairs, Origami Ghosts, Myronics
+       at the Hemlock, S.F. 21+ $6 9pm **
+jul 18 wed So, Glass Gavel
+       at the Bottom of the Hill, S.F. 21+ $8/$10 8:30pm/9pm **
+jul 18 wed Chatham Country Line, The Easy Leaves
+       at Cafe Du Nord, S.F. 21+ $15 8pm ** (bluegrass - was July 19th)
+jul 18 wed Eddie Money at Yoshi's, S.F. 21+ 8pm $35 *** (also July 19th)
+jul 18 wed Waters, Chasms, Churches
+       at the Brick & Mortar, S.F. 21+ $10/$12 8pm/9pm **
+jul 18 wed Scott Weiland at the Independent, S.F. 21+ $49.50 8pm **
+jul 18 wed Godstomper, Scaphe (Minneapolis), Wake The Machines (Concord),
+       Burning Monk, Deras Krig (Santa Rosa), No Fucks Given
+       at the Riff Gallery, 77 Joseph Court, San Rafael a/a $6 8pm *** @
+jul 18 wed Strengthen What Remains, Set Free, Youthquake AD, Mirrors,
+       Covenant (CA) at the Phoenix Theater, Petaluma a/a $8 8pm *** @
+jul 18 wed Willie Nelson & Family at the Uptown Theater, Napa 21+ 8pm ***
+jul 18 wed The Reverend Horton Heat (Dallas, TX), Supersuckers, Goddamn Gallows
+       at the Blank Club, San Jose 21+ $25/$30 8pm ***
+jul 18 wed Beachwood Sparks, Light Fantastic
+       at the Catalyst Atrium, Santa Cruz 21+ $12/$15 8:30pm/9pm **
+jul 18 wed Red Line Chemistry, Otherwise, Stars On Boulevard, Vanishing Affair,
+       Hazel Rage at the Boardwalk, Orangevale a/a $10/14 7pm/8pm ***
+jul 19 thr dj Lebowitz (piano) at Disco Volante, Oakland a/a 5pm *
+jul 19 thr Tom Griesser Sextet at Disco Volante, Oakland a/a 8pm *
+jul 19 thr Snow-Black Sunday, Spider Meow, Evergreen, Gentlemen
+       at the Stork Club, Oakland 21+ 9pm **
+jul 19 thr Les Nubians, Cleome, Antique, Raw-G
+       at the New Parish, Oakland 21+ $25-$65 8pm/9pm **
+jul 19 thr Shannon And The Clams, Boquet, Deep Time, Tortured Genies
+       at the Uptown, Oakland 21+ $8 9pm ***
+jul 19 thr The Kegels, Weekender, Build Them To Break
+       at Eli's Mile High Club, Oakland 21+ 6pm **
+jul 19 thr Ray Davies, The 88 at the Fillmore, S.F. a/a $50 7pm/8pm # ***
+jul 19 thr Fountains Of Wayne, Mike Viola
+       at the Great American Music Hall, S.F. 6+ $26 7pm/8pm ***
+jul 19 thr Handshake, Fierce Creatures, Conveyor, Coast Jumper
+       at the Bottom of the Hill, S.F. a/a $10 8pm/9pm **
+jul 19 thr Why I Hate, The Shell Corporation, The Mighty Fine,
+       Hooray For Everything at thee Parkside, S.F. 21+ $7 9pm **
+jul 19 thr Eddie Money (2 shows) at Yoshi's, S.F. 21+ 8pm $35 and 10pm $30 ***
+jul 19 thr Spencey Dude And The Doodlesat (record release)
+       the Hemlock, S.F. $5 9pm **
+jul 19 thr Jay Trainer Band (ep release), Segue, Jeff Zittrain Band
+       at the Red Devil Lounge, S.F. 21+ $5/$8 7pm/8pm **
+jul 19 thr Side Effects, Ydinperhe (Helsinki, Finland),
+       Haistelijat (Tampere, Finland), Stares
+       at the Knockout, S.F. 21+ $6 9:30pm/10pm *** @
+jul 19 thr Beachwood Sparks, Allah-Las, Sweet Chariot, dj Britt Govea,
+       dj Andy Cabic at the Independent, S.F. 21+ $18 8pm **
+jul 19 thr Aziz Ansari
+       at the Center for Performing Arts, 255 Almaden Boulevard, San Jose
+       a/a $39 6pm/7pm # **
+jul 19 thr Planet Plow, Cape Sound
+       at the Catalyst Atrium, Santa Cruz 21+ $7 8:30pm/9pm **
+jul 19 thr Talib Kweli at the Ace of Spades, Sacramento a/a **
+jul 19 thr Kevi Kev, Mayhem Muzik, King Tay, City Of Trees, Smashmouth Ent,
+       Money Boyz, Free, CamaCauz-Z, G Will
+       at the Boardwalk, Orangevale a/a $10 7pm/8pm ***
+jul 20 fri Verbal Abuse, Crooked As Fuck, Blank Expressions (L.A.),
+       Five Fingers Of Death, Malicious Dismemberment
+       at 924 Gilman Street, Berkeley a/a $8 7pm *** @
+jul 20 fri The Moans, Shark Stapler, Lenz
+       at the Space Lounge, 2175 Allston Way, Berkeley a/a $5 8pm **
+jul 20 fri The Meteors (U.K.), Stellar Corpses, Custom Kicks
+       at the Uptown, Oakland 21+ $12/$15 9pm ***
+jul 20 fri King Britt at the New Parish, Oakland 21+ $10/$15 8pm/9pm **
+jul 20 fri Dimesland, Stone Burner (Portland), Ninth Moon Black (Eugene),
+       Natures Grave at Eli's Mile High Club, Oakland 21+ $7 8pm *** @
+jul 20 fri Aziz Ansari at Nob Hill Masonic Center, S.F.
+       a/a $39 6:30pm/7:30pm and 9:30pm/10pm # ** (also July 18th)
+jul 20 fri Melvins Lite at Slim's, S.F. 6+ $21 8pm/9pm ***
+jul 20 fri Sam Bush, Alison Harris, The Barn Owls
+       at the Great American Music Hall, S.F. 6+ $26 8pm/9pm **
+jul 20 fri Glimpse Trio, Points North, S.K.O.P.E.
+       at the Bottom of the Hill, S.F. a/a $10/$12 8:30pm/10pm **
+jul 20 fri Ian Fays, Strangled Darlings at the Hemlock, S.F. 21+ $7 9:30pm **
+jul 20 fri Slim Jenkins, Frantic Rockers, Golden West Trio, dj Tanoa,
+       burlesque at Cafe Du Nord, S.F. 21+ $12/$15 9pm **
+jul 20 fri Pow!, Permanent Collection, Future Twin, Al Lover & The Haters
+       at the Brick & Mortar, S.F. 21+ $5/$8 8pm/9pm **
+jul 20 fri Fast Times at Maggie McGarry's, 1353 Grant St., S.F. 21+ free 9pm *
+jul 20 fri Wonderbread 5
+       at Last Day Saloon, 120 5th St., Santa Rosa 21+ $20 9pm/9:30pm **
+jul 20 fri The Mavericks at the Uptown Theater, Napa 21+ **
+jul 20 fri Linda Imperial Band at 23 Club, Brisbane a/a $5 8:30pm **
+jul 20 fri John Mellencamp
+       at the California Theater, South 345 First Street, San Jose a/a # ***
+jul 20 fri Crypt Keeper, Utter Failure, Scaphe (MN), Venkman
+       at Johnny V's, 31 East Santa Clara St., San Jose 21+ free 9pm *** @
+jul 20 fri Plantain, Li Xi, The Oddly Even
+       at the Blank Club, San Jose 21+ $5 9pm **
+jul 20 fri The Stitch Up, Kepi Ghoulie, Dog Party
+       at the Crepe Place, Santa Cruz a/a $10 8pm **
+jul 20 fri Militia Of Love, Omani
+       at the Catalyst Atrium, Santa Cruz 21+ $5 8:30pm/9pm **
+jul 20 fri Demi Lovato, Adam Lambert, Owl City, Karmin
+       at the Pavilion, 1 Sports Parkway, Sacramento a/a $73-$47 6:30pm # ***
+jul 20 fri Rad, Buried At Birth at the Dungion, Sacramento a/a 8pm ** @
+jul 20 fri Too Short, Smoov-E, Okwerdz, First Degree The De, Quette Daddie,
+       Rae Rock, Optimistic, Lil Meek & Liq
+       at the Ace of Spades, Sacramento a/a ***
+jul 20 fri Masyah, Rig Veda, The Vicious Kenits, Barrel Fever,
+       The Ostrich Theory, One More Night, Smelling Colors
+       at the Boardwalk, Orangevale a/a $10 7pm/8pm **
+jul 20 fri Hard Pipe Hitters, The Oisters, Private Intrest
+       at Monstros Pizza, 628 W. Sacramento Ave., Chico a/a $5 8pm ** @
+jul 20 fri Fox Street Allstars
+       at Humboldt Brews, 856 10th at I, Arcata 21+ $10 9:30pm **
+jul 20/21  Tainted Love, Sean Tabor Band
+       at Bimbo's 365 Club, S.F. 21+ $23 8pm/9pm **
+jul 21 sat Attitude Adjustment, Hollywood Hate (L.A.j), Fracas, Fukm,
+       Concussion at 924 Gilman Street, Berkeley a/a $10 7pm *** @
+jul 21 sat Replica, Midnite Brain at the Swamp, West Oakland a/a $5 8pm ** @
+jul 21 sat Hot Einstein at Disco Volante, Oakland a/a $5 9pm *
+jul 21 sat Manmade God, 8mm, Beer Drinker And Hell Raisers
+       at the New Parish, Oakland 18+ $15/$20 8pm/9pm **
+jul 21 sat Abrupt, Ill Content, Bloodshot & Dialated, Beat Guts,
+       Epileptic Seizure at Eli's Mile High Club, Oakland 21+ 6pm *** @
+       (was listed as June 21st)
+jul 21 sat Petty Theft (tribute), The Butlers, Beer Drinkers And Hell Raisers
+       at Pyramid Alehouse, 901 Gilman Street, Berkeley 21+ $25 noon free **
+       (unlimited beer samples)
+jul 21 sat Steve Kimock, Bernie Worrell, Wally Ingram, Andy Hess,
+       Jugtown Pirates at the Fillmore, S.F. a/a $29.50 8pm/9pm # **
+jul 21 sat Owl City, Jayme Dee at Slim's, S.F. 6+ $21/$25 7pm/8pm ** (sold out)
+jul 21 sat The Fresh & Onlys, Unknown Mortal Orchestra, Gardens & Villa,
+       Dominant Legs, La Sera, Sea Of Bees, Mwahaha
+       at Potrero Del Sol Park, 25th & Utah, S.F. a/a $7-$10 noon **
+       (Phono del Sol Music and Food Festival)
+jul 21 sat The Dig, Happy Body Slow Brain, Time Spent Driving
+       at the Bottom of the Hill, S.F. a/a $10 8:30pm/10pm **
+jul 21 sat My Best Fiend, White Cloud
+       at the Brick & Mortar, S.F. 18+ $7/$10 8pm/9pm **
+jul 21 sat Thunderbleed A.K.A. Blind Vengeance, Nate Denver's Neck, dj Real
+       at the Hemlock, S.F. 21+ $7 9:30pm **
+jul 21 sat Too Short with Live Band at Yoshi's, S.F. 21+ $30 10:30pm # ***
+jul 21 sat Sonny & The Sunsets, Wet Illustrated, Pink Films, Cool Ghouls
+       at the Independent, S.F. 21+ $13/$15 9pm **
+jul 21 sat Hot Fog, Dusted Angel at Bender's, S.F. 21+ $5 10pm **
+jul 21 sat Sydney Ducks, Ruleta Rusa, Between Your Teeth
+       at the El Rio, S.F. 21+ $7 9pm/10pm *** @
+jul 21 sat Low Rollers at the Riptide Bar, S.F. 21+ free 9pm/9:30pm **
+jul 21 sat Fast Times at Top of the Mark, 1 Nob Hill, S.F. 21+ free 8pm *
+jul 21 sat Zvoov, Moonbell, Broken Cities, Groundskeeper
+       at Club 6, 60 6th Street, S.F. 21+
+jul 21 sat Frosted Tips, Life Changing Decisions
+       at Broadway Studios, 435 Broadway, S.F. 21+ 9pm **
+jul 21 sat Blind Willies
+       at the Beach Chalet, 1000 Great Highway, S.F. a/a free 2pm **
+jul 21 sat Death's Eminence, Massacration
+       at Brown's Binyerd, 1009 1st. St., Novato 21+ 8pm/9pm **
+jul 21 sat Clyde Carson, New Boyz, Loverance, The Finatticz, Cali Swag
+       at the Phoenix Theater, Petaluma a/a $25 7:30pm/8pm ***
+jul 21 sat Daniel Castro Band
+       at Last Day Saloon, 120 5th St., Santa Rosa 21+ $20 9pm/9:30pm **
+jul 21 sat Whiskey Bent at Winter's Tavern, Pacifica 21+ * (afternoon show)
+jul 21 sat Weapon 11 at Winter's Tavern, Pacifica 21+ 9pm * (late show)
+jul 21 sat Hopeful Romantics (Martinez), Ami Pienknaguar
+       at Streetlight Records, San Jose a/a free 4pm **
+jul 21 sat Good Hustle, Antwon, A Rival, Boboso
+       at X-Bar, Homestead Lanes, Cupertino a/a $8 8pm **
+jul 21 sat The Expendables at the Catalyst, Santa Cruz 16+ $20/$25 7pm/8pm ** @
+jul 21 sat Fallujah, Pathology, Fit For An Uatopsy, Enfold Dar
+       at the Catalyst Atrium, Santa Cruz 21+ $7/$9 8:30pm/9pm **
+jul 21 sat Moonshine Bandits, Dry Country Drinkers, Brodi Nicholas
+       at the Ace of Spades, Sacramento a/a **
+jul 21 sat Before You Fall, The Sun Sets Here, Truly Terrifying, Wolf Bronski,
+       Machine City, Into The Desert
+       at the Boardwalk, Orangevale a/a $10 7pm/8pm *** @
+jul 21 sat Ninth Moon Black (Eugene), Stone Burner (Portland), Amarok
+       at Monstros Pizza, 628 W. Sacramento Ave., Chico a/a $5 *** @
+jul 21 sat The Intelligence at the Shanty. 213 3rd St., Eureka 21+ **
+jul 21 sat David Nelson Band, Moonalice
+       at Humboldt Brews, 856 10th at I, Arcata 21+ $20/$25 8pm **
+jul 22 sun Son Of Aurelius, Warscythe, Deadly Remains, Dissimulated, Viral
+       at 924 Gilman Street, Berkeley a/a $10 5pm *** @
+jul 22 sun Sublime With Rome, Cypress Hill, Pepper
+       at the Greek Theater, U.C. Berkeley Campus a/a $45 6pm # ***
+jul 22 sun Authority Zero, Versus The World
+       at the New Parish, Oakland 18+ $13/$16 7pm/8pm *** @
+jul 22 sun Total Fucking Destruction, Deras, Krieg, Biocidio (Phoenix),
+       Oust (Phoenix), Mrsa at Eli's Mile High Club, Oakland 21+ $6 7pm ** @
+jul 22 sun Rome, Lux Interna, Unwoman
+       at the DNA Lounge, S.F. a/a $12/$15 7pm/8pm **
+jul 22 sun The E Family
+       at Stern Grove Festival, 19th Ave. at Sloat Blvd., S.F. a/a free 2pm **
+jul 22 sun The Devil's Own, The Grief Counselors
+       at thee Parkside, S.F. a/a free 4pm **
+jul 22 sun City Of Ships, Young Lions, Abstracter
+       at the Hemlock, S.F. 21+ $7 6pm **
+jul 22 sun Big Time Rush, Cody Simpson, Rachel Crow
+       at Shoreline Amphitheatre, Mountain View a/a # $65-$20 5:30pm/7pm ***
+jul 22 sun Palmz, Picture Atlantic, Cartoon Bar Fight, film 'Green"
+       at the Crepe Place, Santa Cruz a/a $8 8pm **
+jul 22 sun A Thousand Shall Fall, Eviscerate, Deconstruct
+       at the Catalyst Atrium, Santa Cruz 21+ $7 8:30pm/9pm **
+jul 22 sun Conducting From The Grave, Ellipsis, A Holy Ghost Revival,
+       The Moth Anatomy, Beyond All Ends, Ask For Embla, No Quarter
+       at the Boardwalk, Orangevale a/a $12/$14 5:30pm/6:30pm *** @
+jul 22 sun The Intelligence
+       at the Townhouse, 1517 21st Street, Sacramento 21+ **
+jul 22/23  Leo Kottke at Yoshi's, Oakland 21+ ***
+jul 23 mon Fleeting Trance at Disco Volante, Oakland a/a 8pm *
+jul 23 mon Midnite at the New Parish, Oakland 18+ $25/$30 8pm/9pm ***
+jul 23 mon A Volcano, Burnt Thrones Club, Rodents Of Unusual Size
+       at Eli's Mile High Club, Oakland 21+ 7pm ** @
+jul 23 mon Reel Big Fish, Big D And The Kids Table, Suburban Legends,
+       The Maxies at the Regency Ballroom, S.F. a/a 7pm # *** @
+jul 23 mon Religious Girls, Young Lions, Hides
+       at the Bottom of the Hill, S.F. a/a $8 8:30pm/9pm **
+jul 23 mon Adventure Playground, Hearts & Minutes (L.A.), Froadz
+       at the El Rio, S.F. 21+ $5 8pm **
+jul 23 mon Becoming The Archetype, Wolves At The Gate, Crush The Adversary,
+       Mirrors at the Phoenix Theater, Petaluma a/a $10 7:30pm/8pm *** @
+jul 23 mon To Our Legends, Hard Of Heart, Hemorage
+       at Johnny V's, 31 East Santa Clara St., San Jose 21+ free 8pm **
+jul 23 mon Pepper, Arden Park Roots, Official Response
+       at the Ace of Spades, Sacramento a/a **
+jul 24 tue The Brewing Co. at Disco Volante, Oakland a/a 8pm *
+jul 24 tue Allstar Weekend, Honor Society, Namesake
+       at Slim's, S.F. 6+ $16 ($66 vip) 7:30pm/8pm ***
+jul 24 tue Ava Luna, That Ghost, Youngman Grand
+       at the Bottom of the Hill, S.F. a/a $10 8:30pm/9pm **
+jul 24 tue System And Station (Portland), Brain On Fire, Control-R
+       at the Hemlock, S.F. 21+ $7 9pm **
+jul 24 tue Donna Jean Godchaux Band, Mark Karan, Mookie Siegel
+       at the Brick & Mortar, S.F. 21+ $10/$13 8pm/9pm **
+jul 24 tue Hollow Earth, Heavy Action, Winter Teeth, dj Handlebars
+       at the Knockout, S.F. 21+ $6 8:30pm/9:30pm **
+jul 24 tue Yanni at the San Jose Civic, 135 San Carlos St., San Jose a/a **
+jul 24 tue Mars, Mastermind, Wicked Wayz, 420 Darkside Boyz, Foothill Fam,
+       Klouded Jugmit, Side FX, 2HK, Paradox
+       at the Boardwalk, Orangevale a/a $12/$14 6:30pm/7pm **
+jul 24 tue Relient K, Hellogoodbye, William Beckett, House Of Heroes
+       at the Ace of Spades, Sacramento a/a **
+jul 24 tue Reel Big Fish
+       at Fat Cat Music, 930 10th St., Modesto 21+ $22 6:30pm/7:30pm *** @
+jul 25 wed Karl Evangelista, Grex, Aram Shelton, Jason Hoopes, Jordan Glenn,
+       Zeina Nasr at Swarm Gallery, 560 2nd St., Oakland
+       a/a $5-$10 sliding scale 8pm ** (all playing Ornette Coleman)
+jul 25 wed Stephane Wrembel at Yoshi's, Oakland 21+ **
+jul 25 wed Kajillion at the Uptown, Oakland 21+ free 9pm ** (KALX)
+jul 25 wed Teenage Bottlerocket, The Dopamines, Elway
+       at the Bottom of the Hill, S.F. a/a $10/$12 8:30pm/9pm ** @
+jul 25 wed Spoek Mathambo, Duckwrth, Armani Cooper
+       at the Brick & Mortar, S.F. 18+ $10/$13 8pm/9pm **
+jul 25 wed Mewithoutyou, Kevin Devine, Buried Beds
+       at Slim's, S.F. 6+ $16 8pm **
+jul 25 wed Relient K, Hellogoodbye, William Beckett
+       at the Fillmore, S.F. a/a $22.50 7pm/8pm # **
+jul 25 wed Crystal Stilts, The Mantles
+       at the Great American Music Hall, S.F. 6+ $15 7pm/8pm **
+jul 25 wed Magic Leaves, The Lawlands, Grand Lodge
+       at Cafe Du Nord, S.F. 21+ $10 8pm **
+jul 25 wed Carletta Sue Kay, Detective Agency (Seattle), Bugs In Costumes
+       at the Hemlock, S.F. 21+ $7 9pm **
+jul 25 wed Tiger Honey Pot, Heavy Voodoo (Portland), Elegy, Crimson Scarlet,
+       dj Laurgactyl at the Knockout, S.F. 21+ $7 8pm/9pm **
+jul 25 wed Alberta Cross, Everest, Aaron Lee Tasjan
+       at the Independent, S.F. 21+ $15 8pm **
+jul 25 wed Kelly Clarkson, The Fray, Carolina Liar
+       at the Pavilion, Concord a/a $79-$29 6pm/7pm # ***
+jul 25 wed Hawk Jones, Man YOur Horse, Ghosts In The Aqueducts
+       at the Blank Club, San Jose 21+ free 9pm **
+jul 25 wed Allstar Weekend, Honor Society, Namesake
+       at the Boardwalk, Orangevale a/a $20 ($70 vip) 7pm/7:30pm ***
+jul 25 wed Pacific Dub, Katastro, Eazy Dub, Island Of Black & White
+       at the Ace of Spades, Sacramento a/a **
+jul 26 thr dj Lebowitz (piano) at Disco Volante, Oakland a/a 5pm *
+jul 26 thr The Mau Maus (L.A.), Bite, The Memphis Murder Men
+       at the Lucky 13, 1301 Park St, Alameda 21+ free *** @
+jul 26 thr Embers, Ghosts Of Glaciers (Denver), Satya Sena
+       at Eli's Mile High Club, Oakland 21+ $7 7pm/7:30pm ** @
+jul 26 thr Tumbleweed Wanderers (Seattle - record rlease), Rin Tin Tiger,
+       Ghost And The City at the Great American Music Hall, S.F.
+       6+ $15 7:30pm/8pm ** (free records to first 200 in the door)
+jul 26 thr Harry And The Potters, Potter Puppet Pals
+       at Slim's, S.F. 6+ $15 7:30pm **
+jul 26 thr King Tuff, Jaill, The Coathangers, dj Ted Bagel Radio
+       at the Bottom of the Hill, S.F. a/a $12 8:30pm/9pm **
+jul 26 thr St. Lucia at the Rickshaw Stop, S.F. 18+ ***
+jul 26 thr The Ettes, Nectarine Pie, Warm Soda
+       at thee Parkside, S.F. 21+ $10 9pm **
+jul 26 thr Sweet Chariot, Cuates, Josh Harmony
+       at the Hemlock, S.F. 21+ $7 9pm **
+jul 26 thr Pacific Dub, Katastro at the Cafe Du Nord, S.F. 21+ $10 8pm **
+jul 26 thr Sioux City Kid, The Ferocious Few, Mahgeetah
+       at the Independent, S.F. 21+ $15 8pm **
+jul 26 thr Owl, Serpent Crown at Winter's Tavern, Pacifica 21+ **
+jul 26 fri Thirt9 Fingers, Down For The Count
+       at Swingin Door, 106 E. 25th Ave., San Mateo 21+ free 8:30pm/9:30pm **
+jul 26 fri Emery (Seattle), My Children My Bride, To Speak Of Wolves,
+       Paint Over Pictures, Every Hand Betrayed, Last Night In Town
+       at the Boardwalk, Orangevale a/a $15 7pm/7:30pm *** @
+jul 26 fri Launch X Cut+Paste, OOOOO, Dusty Brown, Who Cares, Little Foxes,
+       Young Aundee, dj Whores, dj E Squared
+       at the Ace of Spades, Sacramento a/a **
+jul 26 thr Stephane Wrembel at Wanderlust Festival, Lake Tahoe ?/? *
+jul 26 thr Sublime With Rome, Cypress Hill, Pepper, HB Surround Sound
+       at MontBleu Casino, Stateline NV 18+ $54.45 6pm # ***
+jul 26 thr Reproacher, Fatal Birth, Teeph, Into The Open Earth
+       at Monstros Pizza, 628 W. Sacramento Ave., Chico a/a $5 8pm ** @
+jul 27 fri Wisecracker (Germany), Fixed Idea (TX), Self-Inflected Wounds,
+       Impposters, Break The Cycle (San Diego)
+       at 924 Gilman, Berkleey a/a $10 7pm *** @ (ska night - Jeff's Birthday)
+jul 27 fri Dirty Projectors, Wye Oak at the Fox Theater, Oakland a/a 8pm # ***
+jul 27 fri Autopsy, Ghoul, Noothgrush, Acephalix
+       at the Metro, Oakland a/a $20 7pm # *** @
+       (Benefit for Nikki & Jef "Leppard" Davis)
+jul 27 fri The Bells at Disco Volante, Oakland a/a 8pm *
+jul 27 fri The Thirsty Three, Brass Hysteria, Ghost Town Hangmen,
+       Them Rude Boys at Eli's Mile High Club, Oakland 21+ $7 7pm **
+jul 27 fri Char-Man, Hunchies, Hooray For Everything, Pang
+       at Merchants Saloon, 401 2nd Street, Oakland 21+ free 8pm **
+jul 27 fri Jokes For Feelings at the Uptown, Oakland 21+ $7 9pm ** (ska)
+jul 27 fri The Malone Brothers, Huckle
+       at the Great American Music Hall, S.F. 6+ $21/$25 9pm **
+jul 27 fri For A Better Kind, Out For Blood, Hemorage,
+       Infinito In Torqueo, To Our Legends
+       at Sub-Mission Gallery, S.F. a/a $10 7:30pm/8pm *** @
+jul 27 fri Big K.R.I.T., Casey Veggies, Big Sant, Tito Lopex
+       at Slim's, S.F. 6+ $21 9pm **
+jul 27 fri Kathy Griffin
+       at Nob Hill Masonic Center, S.F. a/a $80-$46 7pm/8pm # **
+jul 27 fri The Intelligence, Personal & The Pizzas, Ggreen
+       at the Hemlock, S.F. 21+ $10 9:30pm **
+jul 27 fri The Memorials at the Brick & Mortar, S.F. 21+ $10/$15 8pm/9pm **
+jul 27 fri The Tambo Rays, Meat Market, Cogito, Evil Eyes
+       at thee Parkside, S.F. 21+ $6 9pm **
+jul 27 fri The Bruises (cd release), Dirty Ghosts, Sporting Life, dj Danny
+       at the Bottom of the Hill, S.F. 21+ $10 8:30pm/9:30pm **
+jul 27 fri Bone Awl, Cirrhus (Portland), Verglas (Quebec, Canada)
+       at the Elbo Room, S.F. 21+ $8 9:30pm ** @
+jul 27 fri Ill Repute, Resilience, Slandry, Violation, M-Section
+       at the Phoenix Theater, Petaluma a/a $8 7:30pm/8pm *** @
+       (at Sub-Mission on July 28th)
+jul 27 fri The Donna Jean Godchaux Band, Mark Karan, Mookie Siegel
+       at Last Day Saloon, 120 5th St., Santa Rosa 21+ $15 9pm/9:30pm **
+jul 27 fri Ziggy Marley
+       at the Uptown Theater, Napa 12+ (under 16 with an adult) $50 8pm **
+jul 27 fri Johnny J Blair at 23 Club, Brisbane a/a $5 8:30pm **
+jul 27 fri Brad Paisley, The Band Perry, Easton Corbin
+       at Shoreline Amphitheatre, Mountain View a/a $65-$30 5:30pm/7:30pm # **
+jul 27 fri Firme, The Philthy Dronez at the Blank Club, San Jose 21+ $10 9pm **
+jul 27 fri The Limousines (dj set), Crashfaster, Doctor Popular
+       at the Crepe Place, Santa Cruz a/a $10 8pm **
+jul 27 fri Blitzkid, Stellar Corpses
+       at the Catalyst Atrium, Santa Cruz 16+ $10/$12 8:30pm/9pm *** @
+jul 27 fri Demon Hunter, Bleeding Through, Cancer Bats, The Plot In You,
+       Willows at the Ace of Spades, Sacramento a/a *** @
+jul 27 fri Iron Maidens (tribute), Restrained, Bad Boy Eddy, Descendant,
+       Eulogy at the Boardwalk, Orangevale a/a $12/$15 7pm/8pm **
+jul 28 sat Blitzkid, Stellar Corpses, Thee Merry Widows, Culo A Boca,
+       Nitro 454 at 924 Gilman Street, Berkeley a/a $10 7pm *** @
+jul 28 sat Fiona Apple, Blake Mills
+       at the Fox Theater, Oakland a/a 8pm # *** (sold out)
+jul 28 sat The Intelligence
+       at Hearts & Palms, 1045 East 12th Street, Oakland a/a **
+jul 28 sat Allegaeon, Dissipate, Casket Of Cassandra, Deprivation, Short Fuse,
+        Weapon Status Red, Better Left Unsaid, Falling To Pieces,
+        Prey For Sleep, Dead Earth Politics, Repaid In Blood,
+        RepaidInBlood Kaos, Mudface, Skinner, Hysteria
+        at the Metro, Oakland a/a 4pm # *** @ (Bay Area Metal Festival)
+jul 28 sat Limnus, Ghost Of Glaciers, Hellbeard
+       at the Space Lounge, 2175 Allston Way, Berkeley a/a $6 8pm **
+jul 28 sat Go Van Gogh at Disco Volante, Oakland a/a 8:30pm **
+jul 28 sat Exit Eden at the Stork Club, Oakland 21+ **
+jul 28 sat Swamp Angel, The Pendletons at the Uptown, Oakland 21+ $10 9pm **
+       (Birthday celebration for Geoff Braithwaite & Richard Gibbon)
+jul 28 sat The Mau Maus (L.A.), Ruleta Rusa, Bad Coyotes, Awesome,
+       Anti Social at Eli's, Mile High Club, Oakland 21+ $8 7pm *** @
+jul 28 The People Party at the New Parish, Oakland 21+ $10 9pm **
+jul 28 sat Ill Repute, Resilience, Sad Boy Sinister, Stagger And Fall,
+       Epeleptic Seizure at Sub-Mission Gallery, S.F. a/a $12 7:30pm/8pm *** @
+       (at the Phoenix Theater on July 27th)
+jul 28 sat Yanni at Nob Hill Masonic Center, 1111 California St., S.F.
+       a/a $125-$50 7pm/8pm # **
+jul 28 sat Hamsa Lila, Fanna-Fi-Allah Sufi Qawwali Party
+       at the Great American Music Hall, S.F. 6+ $20/$25 9pm **
+jul 28 sat Kaskade at Civic Center, 99 Grove Street, S.F. a/a $49.50 # **
+jul 28 sat Loquat, Young Digerati, Foxtail Somersault, The Tzigane Society,
+       dj Galine MoDemoiselle at Slim's, S.F. 6+ $14 8:30pm **
+jul 28 sat Drms (album release), The Shotgun Wedding Quintet, St. Tropez
+       at Rickshaw Stop, S.F. a/a $12 8:30pm/9pm ** (KALX)
+jul 28 sat Year Of The Fist at thee Parkside, S.F. a/a free 3pm *
+jul 28 sat Joyce Manor, Wild Moth, Summer Vacation, Yulia
+       at the Bottom of the Hill, S.F. a/a $10 8:30pm/9pm *** @
+jul 28 sat Urban Blight, Creem, Permanent Ruin, Hunting Party
+       at the Hemlock, S.F. 21+ $7 9pm ** @
+jul 28 sat Truth & Salvage Co.  at Cafe Du Nord, S.F. 21+ $10/$12 9pm **
+jul 28 sat Owl, Wild Eyes at Bender's, S.F. 21+ $5 10pm **
+jul 28 sat Planet Booty, Jaysonic
+       at the Brick & Mortar, S.F. 21+ $7/$10 8pm/9pm **
+jul 28 sat M.C. Meathook & The Vital Organs, Butt Problems, Go Time!, Tender
+       at the El Rio, S.F. 21+ **
+jul 28 sat Big Eagle at the Riptide Bar, S.F. 21+ free 9pm/9:30pm **
+jul 28 sat Sister Sparrow & The Dirty Birds
+       at Boom Boom Room, 1601 Fillmore, S.F. 21+ 8pm **
+jul 28 sat Steel Pulse (U.K.) at the Independent, S.F. 21+ $35 9pm **
+jul 28 sat Sopwith Camel, Danny Sorentino
+       at Last Day Saloon, 120 5th St., Santa Rosa 21+ $12 8pm/8:30pm **
+jul 28 sat Chris Von Sneidern at 23 Club, Brisbane a/a $5 8:30pm **
+jul 28 sat Suck My Pepper (tribute) at Winter's Tavern, Pacifica 21+ **
+jul 28 sat Crashfaster, The Glowing Stars, Doctor Popular, Hello The Future!,
+       Slime Girls, Gnarboots, Cartoon Violence, dj Coco
+       at the Hyatt Regency Hotel, 5101 Great America Parkway, Santa Clara
+       a/a $40 11am til 2am *** (California Extreme Classic Gaming Show)
+       (free arcade / pinball play)
+jul 28 sat Big K.R.I.T., Casey Veggies, Big Sant
+       at the Catalyst, Santa Cruz 16+ $15/$19 8pm/9pm **
+jul 28 sat St. Lucia at Launch Festival, Cesar Chavez Plaza, Sacramento a/a ***
+jul 29 sun Hooligan (Ireland), City Of Vain, Old Glory, Hounds & Harlots,
+       Let It Burn at 924 Gilman Street, Berkeley a/a $8 5pm *** @
+jul 29 sun The Acacia Strain, Oceano, Impending Doom, Like Moth To Flames,
+       For All Those Sleeping, Close To Home, Volumes, Hands Like Houses
+       at the Metro, Oakland a/a 5pm/5pm # *** @
+jul 29 sun Low Rollers, Danny Allen at Disco Volante, Oakland a/a 7pm *
+jul 29 sun Pangea, Part Time, Burnt On
+       at Eli's Mile High Club, Oakland 21+ 7pm ** @ (Total Trash Fest)
+jul 29 sun George Watsky, Dumbfoundead & The Breezy Love Joy Band
+       at Slim's, S.F. 6+ $14/$16 9pm **
+jul 29 sun Caustic, Everything Goes Cold, Crashfaster, Whormongr, dj Mr. Smith,
+       dj Scrawny at the DNA Lounge, S.F. a/a $8/$11 8pm/8:30pm *** @
+jul 29 sun Neon Trees, Penguin Prison, Jjamz
+       at the Fillmore, S.F. a/a $20 7pm/8pm # ***
+jul 29 sun The Golddiggers, Whiskey Pills Fiasco
+       at thee Parkside, S.F. a/a free 4pm **
+jul 29 sun The Dangerous Summer, New Empire, From Indian Lakes
+       at Cafe Du Nord, S.F. 18+ $10 8:30pm **
+jul 29 sun The Psychic Paramount, Phil Manley Life Coach, Barn Owl
+       at the Brick & Mortar, S.F. 18+ $9/$12 7pm/8pm **
+jul 29 sun Extra Classic, Low Flying Owls, Pony Village (Portland)
+       at the Hemlock, S.F. 21+ $7 9pm **
+jul 29 sun Up Your Alley Street Fair, Dore Alley, S.F. 11am
+jul 29 sun The Inciters, Factory Minds, Ska-Skank Redemption (Denver)
+       at the Red Devil Lounge, S.F. 21+ $8 8pm ** @
+jul 29 sun Bordertown Saints, Get Dead (acoustic), The City
+       at the Bottom of the Hill, S.F. 21+ $8 12:30pm/1pm **
+jul 29 sun Iron Maidens (tribute), Hell Fire, Mr. Thumb
+       at Broadway Studios, 435 Broadway, S.F. 21+ $15 8pm **
+jul 29 sun record swap at Streetlight Records, Santa Cruz a/a free noon til 4pm
+jul 29 sun Attack Attack!, We Came As Romans, Woe Is Me, Abandon All Ships,
+       Texas In July, In Fear And Faith, Secrets, Glass Cloud, At The Skylines
+       at the Ace of Spades, Sacramento a/a *** @
+jul 29 sun Prylosis (cd release), Two Nooses, Lost Freedom, Keeping Score,
+       Sour Diesel at the Boardwalk, Orangevale a/a $10/$12 7pm/8 ** @
+jul 30 mon Rose Windows, Dum Spiro Spero, Iska Daaf
+       at Disco Volante, Oakland a/a 8pm **
+jul 30 mon The Psychic Paramount, Phil Manley Life Coach, Cariton Melton
+       at the New Parish, Oakland 21+ $9/$12 7pm/8pm **
+jul 30 mon One Direction
+       at the Shark Tank, San Jose a/a $90-$30 6:30pm/7:30pm # ** (boy band)
+jul 30 mon Media Blitz
+       at Ground Zero, 324 East Taylor Street, Reno, NV a/a $5 8pm **
+jul 31 tue One Direction
+       at the Arena, Oakland a/a $90-$30 7:30pm # ** (boy band)
+jul 31 tue J Standards Jazz Trio at Disco Volante, Oakland a/a 8pm *
+jul 31 tue Soulfly, Incite, Lody Kong at Slim's, S.F. 6+ ***
+jul 31 tue Electric Shepherd, Billions And Billions
+       at the Hemlock, S.F. 21+ $6 9pm **
+jul 31 tue Solid Attitude, CCR Headcleaner, Raw Nite, Molestations
+       at thee Parkside, S.F. 21+ $5 8pm **
+jul 31 tue Kissing Party, Bam! Bam!, Party Owl
+       at the Brick & Mortar, S.F. 21+ $7/$7 8pm/9pm **
+jul 31 tue The Razor Skyline, Drop Black Sky, dj Kit
+       at the Elbo Room, S.F. 21+ $7 9pm ** (industrial)
+jul 31 tue Barenaked Ladies, Blues Traveler, Big Head Todd & The Monsters,
+       Cracker at Mountain Winery, Saratoga a/a # ***
+jul 31 tue The Hood Internet, Psalm One, Tanya Morgan
+       at the Catalyst Atrium, Santa Cruz 18+ $10/$13 8:30pm/9pm **
+jul 31 tue Kottonmouth Kings, Big B, Prozak
+       at the Ace of Spades, Sacramento a/a ***
+jul 31 tue cancelled:  Sinead O'Connor at the Fox Theater, Oakland
+aug  1 wed Peaking Lights at the New Parish, Oakland 21+ $15 8pm/9pm **
+aug  1 wed The Yolks, The Biz, Teenage Burritos, The Vomettes
+       at Eli's Mile High Club, Oakland 21+ 6pm **
+aug  1 wed Juicy J, Smoke Dza, Chip Tha Ripper, Fat Trel, Joey BadAss
+       at the Regency Ballroom, S.F. a/a 8pm # **
+aug  1 wed The Sights, Southeast Engine,
+       Slow Moving Lions Of The Vegetable World
+       at the Hemlock, S.F. 21+ $8 9pm **
+aug  1 wed The Mynabirds, Deep Time at Cafe Du Nord, S.F. 21+ $10/$12 9:30pm **
+aug  1 wed Lucy Michelle And The Velvet Lapelles, Audiafauna, Morgan Manifacier
+       at the Bottom of the Hill, S.F. 21+ $10 8:30pm/9pm **
+aug  1 wed Pierced Arrows (Portland), The Husbands, Trainwreck Riders
+       at the Elbo Room, S.F. 21+ $10/$12 9pm/9:30pm ** @
+aug  1 wed The Hood Internet, Tanya Morgan, Psalm One
+       at the Independent, S.F. 21+ $12/$14 9pm **
+aug  1 wed The Devfits, Sleeping People (San Diego), Minot
+       at the Blank Club, San Jose 21+ $5 9pm ***
+aug  1 wed The Inciters, The Wild Ones, The Ballantynes
+       at the Catalyst Atrium, Santa Cruz 21+ $7 8:30pm/9pm **
+aug  1 wed The Secretions, Fight Music, Born Into This
+       at Monstros Pizza, 628 W. Sacramento Ave., Chico a/a $5 8pm ** @
+aug  2 thr Sekta Core, La Plebe at the New Parish, Oakland 21+ $12 8pm/9pm ** @
+aug  2 thr Lumerians at the Uptown, Oakland 21+ free 6pm/9pm **
+aug  2 thr Squarepusher at the Regency Ballroom, S.F. a/a $27/$30 8pm # **
+aug  2 thr Tears For Fears, Carina Round
+       at the Nob Hill Masonic, S.F. a/a $65/$55/$40 6:30pm/7:30pm # **
+aug  2 thr Lenz, Uzi Rash, City Deluxe at the Hemlock, S.F. 21+ $6 9pm ** @
+aug  2 thr Sleeping People, Minot
+       at the Bottom of the Hill, S.F. 21+ $10 8:30pm/9pm **
+aug  2 thr Buraka Som Sistema at the Independent, S.F. 21+ $20 9pm **
+aug  2 thr John Fogerty at Mountain Winery, Saratoga a/a # ***
+aug  2 thr Owls Of Walden, Them Guns
+       at the Catalyst Atrium, Santa Cruz 21+ $7 8:30pm/9pm **
+aug  2 thr As Dreamers (Citrus Heights), Thou The Giant, Citadel, Anthem,
+       Sound The Sirens, Az'rael, Ask For Embla
+       at the Boardwalk, Orangevale a/a $10 7pm/7:30 ** @
+aug  2 thr Creed (Tallahassee, FL)
+       at Civic Center, 700 Auditorium Dr., Redding a/a $33-$65 7pm/8pm # ***
+aug  3 fri Atom Age, Falcon A, War Of Aggression, Union Hearts, The Blast
+       at 924 Gilman Street, Oakland a/a *** @ (Estebo's Birthday)
+aug  3 fri Elzhi, Locksmith at the New Parish, Oakland 18+ $20 8pm/9pm **
+aug  3 fri Elvin Bishop at Yoshi's Oakland 21+ ***
+aug  3 fri Judgement Day, Giant Squid, A Sun That Never Sets
+       at the Bottom of the Hill, S.F. a/a $10 8:30pm/10pm **
+aug  3 fri Woods, Peaking Lights at the Great American Music Hall, S.F. 6+ **
+aug  3 fri Brener Monducci, Tambores Do Brazil, Sotaque Baiano, Tony Santos
+       at the Brick & Mortar, S.F. 18+ $15/$20 9pm ** (Brazilian Music Fest)
+aug  3 fri Night Birds (N.J.), Sharp Objects, Ruleta Rusa, Bad Coyotes
+       at the Hemlock, S.F. 21+ $7 9pm ** @
+aug  3 fri Soul Asylum at the Independent, S.F. 21+ $20 9pm **
+aug  3 fri Persephone's Bees (album release), Bart Davenport
+       at Cafe Du Nord, S.F. 21+ $12 9:30pm **
+aug  3 fri The Congress (Denver, CO),
+       at Grant & Green, 1371 Grant St., S.F. 21+ 9:30pm **
+aug  3 fri Tower Of Power at the Dolano County Fair, Vallejo a/a ***
+aug  3 fri Greenfields at 23 Club, Brisbane a/a $5 8:30pm **
+aug  3 fri Iron Maiden, Coheed And Cambria
+       at Shoreline, Mountain View a/a $96-$26 6pm/7:30pm # ***
+aug  3 fri Michael Franti, Spearhead at Mountain Winery, Saratoga a/a # **
+aug  3 fri Juicy J, Smoke Dza, Fat Trel, Joey Badass
+       at the Catalyst, Santa Cruz 16+ $17/$22 8pm/9pm **
+aug  3 fri Ghambit, dj Pumba
+       at the Catalyst Atrium, Santa Cruz 16+ $10/$14 8:30pm/9pm **
+aug  3 fri Y & T, End Of Days, Deadlands, Sucker Punch
+       at the Ace of Spades, Sacramento a/a ***
+aug  3 fri Souls Of Mischief, Pep Love, Casual
+       at the El Rey Theater, Chico a/a $15 8pm/8:30pm **
+aug  4 sat Night Birds (N.J.), Bobby Joe Ebola And The Children MacNuggets,
+       Neon Piss, No Mistake, The Marshmallows
+       at 924 Gilman Street, Berkeley a/a $8 7pm *** @
+aug  4 sat Aerosmith, Cheap Trick
+       at the Arena, Oakland a/a $150-$50 6:30pm/7:30pm # ***
+aug  4 sat Luce, Blame Sally, Dyloot, Garrison Starr, dj Dyloot (late night),
+       Souls Of Mischief, Frank Fairfield, Metal Mother, Saviours, Vetiver
+       at Art & Soul Festival, Downtown Oakland
+       a/a $10/$15 (12 & under free) 2pm til midnight *** (art installations)
+aug  4 sat Exhuasted Pipes
+       at the Space Lounge, 2175 Allston Way, Berkeley a/a $5 8pm *
+aug  4 sat Stillsuit, Brother Nature (Minneapolis),
+       Fuck Detector (Fargo), Yogurt Brain
+       at Good Bellies Cafe, 4659 Telegraph Avenue, Oakland a/a $5 7pm ** @
+aug  4 sat Dumpstaphunk, Zigaboo Modeliste
+       at the New Parish, Oakland 18+ $20/$25 8pm/9pm ***
+aug  4 sat Jay Brannan at the Great American Music Hall, S.F. 6+ **
+aug  4 sat Murder By Death, Lia Rose, Ha Ha Tonka
+       at the Bottom of the Hill, S.F. a/a $15/$17 8pm/10pm **
+aug  4 sat The Hundred Days, Kill Moi, Ownership, dj Mario Muse, dj Jacob Fury
+       at Slim's, S.F. 6+ ** @
+aug  4 sat Meek Mill at the Fillmore, S.F. a/a 8pm # **
+aug  4 sat The English Beat, The Champions Inc
+       at Bimbo's 365 Club, S.F. 21+ $22/$25 8pm/9pm ***
+aug  4 sat The Pleasure Kills, The Sweet Pups, The Ballantynes
+       at the Hemlock, S.F. 21+ $7 9:30pm **
+aug  4 sat Extra Action Marching Band, Itchy-O Marching Band
+       at the Brick & Mortar, S.F. 21+ $15/$20 8pm/9pm **
+aug  4 sat Brad Burns at 23 Club, Brisbane a/a $5 8:30pm **
+aug  4 sat Run 4 Cover at Winter's Tavern, Pacifica 21+ *
+aug  4 sat Alexandra Starlight, Stock Foto
+       at Streetlight Records, San Jose a/a free 7pm **
+aug  4 sat Electrc Kngdm, dj Shea Butler, dj K-Von, Unicorn Blood
+       at the Blank Club, San Jose 21+ $5 9pm **
+aug  4 sat Wino, Conny Ochs
+       at Alternative Cafe, 1230 Fremont Blvd., Seaside a/a $10 9pm **
+aug  4 sat Super Diamond at the Ace of Spades, Sacramento a/a **
+aug  4 sat New Era, Boss Biz, Sunny B, Cell, Louis V, T. Chris, Babnit
+       at the Boardwalk, Orangevale a/a $10/$12 7pm/8pm **
+aug  4 sat Iron Maiden, Coheed And Cambria
+       at the Amphitheatre, 2677 Forty Mile Road, Marysville a/a # ***
+aug  4 sat The Hooten Hallers, Actors Killed Lincoln, Last To Leave,
+       Thom Chowder & Friends
+       at the Hideout Lounge, 240 South Park Street, Reno, NV 21+ $5 9pm ** @
+aug  5 sun Dime runner (L.A.), Suzi Trash (MO), Deal Me In (TN),
+       Addiction To Affliction, Avalance, Happly Clams
+       at 924 Gilman Street, Berkeley a/a 5pm *** @
+aug  5 sun Lalah Hathaway, Kellye Gray, Forest Day, Oceanography, Churches,
+       Persephone's Bees, Whiskerman, Dear Indugu, Caldecott, Free Food,
+       Dynamic Truth at Art & Soul Festival, Downtown Oakland
+       a/a $10/$15 (12 and under free) noon til 6pm ** (art installations)
+aug  5 sun Richie Spice, Hotta Tunes, dj Daddy, Rolo dj Veyn
+       at the Metro, Oakland a/a $40 8pm/9pm # **
+aug  5 sun Kill Devil Hill at the New Parish, Oakland 18+ $15/$18 8pm/9pm **
+aug  5 sun Murder By Death, Cory Chisel & The Wandering Sons, Ha Ha Tonka
+       at the Bottom of the Hill, S.F. a/a $15/$17 8pm/9pm **
+aug  5 sun Ozomatli, Smod
+       at Stern Grove Festival, 19th Ave. at Sloat Blvd., S.F. a/a free 2pm **
+aug  5 sun Los Enanitos Verdes at the Fillmore, S.F. a/a 8pm # **
+       (was listed as July 27th)
+aug  5 sun The Wild Kindness, Former Friends Of Young Americans (Tempe, AZ),
+       Casual Dolphins at the Hemlock, S.F. 21+ $6 9pm **
+aug  5 sun Radio Moscow, The Dirty Streets
+       at the Cafe Du Nord, S.F. 21+ $10/$12 8:30pm **
+aug  5 sun Sierra Leone's Refugee All Stars, Black Nature Band, Naia Kete
+       at the Independent, S.F. 21+ $20 8pm **
+aug  5 sun Chris Isaak at the Uptown Theater, Napa 21+ 8pm ***
+aug  5 sun Tears For Fears at the San Jose Civic, 135 San Carlos St., San Jose
+       a/a $55/$65 7:30pm # **
+aug  5 sun Wino, Conny Ochs
+       at Vinyl Revolution, 230 Lighthouse Avenue, Monterey a/a free 10am **
+aug  5 sun Thee Oh Sees, others at the Woodsist Festival, Big Sur a/a **
+aug  6 mon Sutekh Hexen, Hallow (Eugene), The Rain And Endless Fall (Portland),
+       Riqis at the Elbo Room, S.F. 21+ $7 9pm ** (metal)
+aug  6 mon Cory Chisel & The Wandering Sons
+       at Streetlight Records, Santa Cruz a/a free 6pm **
+aug  6 mon The World Alive, A Skylit Drive, I See Stars, Winds Of Plague,
+       Stick To Your Guns, Attila, For The Fallen Dreams, Stray From The Path,
+       Make Me Famous, Betraying The Martyrs, Obey The Brave, Ice Nine Kills
+       at the Ace of Spades, Sacramento a/a *** @
+aug  6/7   Chris Isaak, Shawn Colvin at Mountain Winery, Saratoga a/a # ***
+aug  7 tue Kasey Chambers, Sarah Jarosz
+       at the Fillmore, S.F. a/a $27.50 7pm/8pm # **
+aug  7 tue Fang Island, Zechs Marquise
+       at the Great American Music Hall, S.F. 6+ **
+aug  7 tue Cosmonauts, Gap Dream at the Hemlock, S.F. 21+ $7 9pm **
+aug  7 tue Foxygen, No, Dylan Shearer
+       at the Brick & Mortar, S.F. 21+ free 8pm/9pm **
+aug  7 tue War Trash, Ratrace (Boston), Midnite Brain, Gaskill, dj Wizard
+       at the Knockout, S.F. 21+ $6 8:30pm ** @
+aug  7 tue Slick Idiot, Mona Mur & Len Esch, Promonium Jesters,
+       Loveless Love, dj Julian, dj Mr. Smith
+       at the Elbo Room, S.F. 21+ $10 8pm ** @ (industrial)
+aug  7 tue Langhorne Slim & The Law, Jessica Lea Mayfield, Benyaro
+       at the Independent, S.F. 21+ $16/$18 8pm **
+aug  7 tue Neil Diamond at the Shark Tank, San Jose a/a $120-$55 7pm/8pm # ***
+aug  7 tue Lostprophets, Cherri Bomb, All In A Day
+       at the Ace of Spades, Sacramento a/a **
+aug  7 tue Theory Of A Deadman, Aranda, Charm City Devils
+       at Modesto Center Plaza, 1000 L Street, Modesto a/a $23 6:30pm/7:30pm **
+aug  7 tue Souls Of Mischief, Pep Love, Casual
+       at Humboldt Brews, 856 10th at I, Arcata 21+ $15/$18 9:30pm **
+aug  8 wed Rape Revenge (Canada), Permanent Ruin, Connoisseur,
+       StressXRelief (Redding), Easy Living
+       at Rec Center Studios, 1701 MLK Way, Oakland a/a $5 7:30pm/8pm *** @
+aug  8 wed Lostprophets at Slim's, S.F. 6+ **
+aug  8 wed Redd Kross at the Great American Music Hall, S.F. 6+ ***
+aug  8 wed Two Gallants at the Rickshaw Stop, S.F. a/a ***
+aug  8 wed Mansfield Aviator, The Philistines, Domestic Electrics
+       at the Hemlock, S.F. 21+ $6 9pm **
+aug  8 wed Fox & Woman, The Thoughts (Seattle), Split Screens
+       at the Brick & Mortar, S.F. 21+ $7/$10 8pm/9pm **
+aug  8 wed Cellar Doors, The Madeira (Indiana), The Hampton Wicks,
+       dj Sid Presley, dj Galine MoDemoiselle
+       at the Elbo Room, S.F. 21+ $7 9pm **
+aug  8 wed Shovels & Rope (Charleston, S.C.) at thee Parkside, S.F. ?/? **
+aug  8 wed Totally Enormous Extinct Dinosaurs
+       at the Independent, S.F. 21+ $15/$18 9pm **
+aug  8 wed Enrique, J.L.O., Wisin & Yandel, Enrique Iglesias, Jennifer Lopez,
+       Wisiny Yandel at the Shark Tank, San Jose a/a 7:30pm # ***
+aug  8 wed Audible Smoke Signal, Dustonius Maximus
+       at the Blank Club, San Jose 21+ free 9pm **
+aug  8 wed Martina McBride
+       at the Bob Hope Theatre, 242 East Main Street, Stockton a/a # **
+aug  8 wed Fade, Rhyme Progression, Artisan Flow, Haze, Tisdale
+       at the Boardwalk, Orangevale a/a $10 7pm/8pm **
+aug  8 wed The Phenomenauts, Prima Donna, The Hooten Hallers, Severance Package
+       at Monstros Pizza, 628 W. Sacramento Ave., Chico a/a $5 8pm *** @
+aug  9 thr Cafe Tacvba at the Fox Theater, Oakland a/a 8pm # **
+aug  9 thr YG at the New Parish, Oakland 18+ $18-$30 8pm/8:30pm **
+aug  9 thr Great American Taxi at Slim's, S.F. 6+ **
+aug  9 thr Shuteye Unison, Silian Rail, B. Hamilton
+       at the Bottom of the Hill, S.F. 21+ $10 8:30pm/9pm **
+aug  9 thr Young Moon (record release), Vestals, Danny Paul Grody
+       at the Hemlock, S.F. 21+ $6 9pm **
+aug  9 thr Wino, Conny Ochs at Cafe Du Nord, S.F. 21+ $12 8pm **
+aug  9 thr Kerry Wing, Aaron Blyth, Jethro Jeremiah
+       at the Red Devil Lounge, S.F. 21+ $8 8pm/9pm **
+aug  9 thr The Lee Boys at the Brick & Mortar, S.F. 21+ $7/$10 7pm/8pm **
+aug  9 thr Heavy Kingdom at Cafe Du Nord, S.F. 21+ $12/$15 9pm **
+aug  9 thr Andrew Bird, Kelly Hogan at the Independent, S.F. 21+ $50 8pm ***
+aug  9 thr Blind Willies
+       at Sausalito Seahorse, 305 Harbor Drive, Sausalito 21+ 8:30pm **
+aug  9 thr Arrival (tribute - Sweden) at George's, San Rafael 21+ 9pm **
+aug  9 thr Yeird Al Yankovic at the Uptown Theater, Napa ?/? 8pm ***
+aug  9 thr Rasco, 4two7, Equipto, Z Man, Playa Rae, Trey C, A-1,
+       dj True Justice at Streetlight Records, San Jose a/a free 7pm **
+aug  9 thr Bow Prometheus (Dallas), Take This City, Desiderata,
+       They Call It Mercy, Our Endless Obsession, Become The Oracle,
+       Life Uh'Duh Party at the Boardwalk, Orangevale a/a $10/$12 7pm/8pm *** @
+aug 10 fri Black Square (HI), The Skunkadelics, PJ & Burnouts
+       at 924 Gilman Street, Berkeley a/a ** @
+aug 10 fri La Misa Negra, Blind Willies
+       at Point Richmond Square, Washington Ave. & Park Place, Roint Richmond
+       a/a free 5:30pm **
+aug 10 fri Whitey Morgan & The 78's
+       at the Uptown, Oakland 21+ $10/$12 9pm ** (country)
+aug 10 fri Powerage (tribute), Cruella (tribute), Haunted By Heroes
+       at Slim's, S.F. a/a 8pm/9pm ***
+aug 10 fri Dear Landlord (Carbondale, IL), The Murder Burgers (Scotland),
+       Hear The Sirens, Rockfight at thee Parkside, S.F. a/a $8 9pm  *** @
+aug 10 fri Astral, O Presidente, Farewell Typewriter
+       at Sub-Mission Gallery, S.F. a/a **
+aug 10 fri Shonen Knife (Japan), The Mallard, The Chuckleberries
+       at the Bottom of the Hill, S.F. 21+ $12/$14 8:30pm/10pm *** @
+aug 10 fri Pissed Off Punks
+       at the Plough and Stars, 116 Clement St., S.F. 21+ **
+aug 10 fri Sporting Life, My Second Surprise, Vir
+       at the Hemlock, S.F. 21+ $7 9:30pm **
+aug 10 fri Lost Dog Found, Mari & The Monitors, burlesque dancers
+       at the Elbo Room, S.F. 21+ $10 10pm ** (rockabilly)
+aug 10 fri Midtown Dickens, Possum And Lester, Three Times Bad
+       at the Cafe Du Nord, S.F. 21+ $11/$13 9pm ** (bluegrass)
+aug 10 fri Washed Out at the Independent, S.F. 21+ $25 10pm **
+aug 10 fri Seal, Macy Gray at Mountain Winery, Saratoga a/a # **
+aug 10 fri Maze, Patti Labelle, The O'Jays, Kenny Edmonds, Tank
+       at the Pavilion, Concord a/a $151-$36 5pm/6:30pm # **
+aug 10 fri Shadow Beat Ritual, The Devil Himself, Space Hooker
+       at the Blank Club, San Jose 21+ $8 9pm **
+aug 10 fri Theory Of A Deadman (Vancouver, Canada)
+       at the Senator Theater, Chico a/a $23 7pm/7:30pm **
+aug 10/11/12 Metallica, Stevie Wonder, Neil Young & Crazy Horse, Jack White,
+       Foo Fighters, Beck, Skrillex, Sigur Ros, Justice, Norah Jones, Dispatch,
+       The Kills, Regina Spektor, Passion Pit, Andrew Bird, Grandaddy, Big Boi,
+       Bloc Party, Explosions In The Sky, Santigold, Franz Ferdinand, Mstrkrft,
+       Rebelution, Die Antwoord, Fitz And The Tantrums, Portugal. The Man,
+       Amadou & Mariam, Wolfgang Gartner, fun., Dr. Dog, The Walkmen,
+       Washed Out, City And Colour, Two Gallants, Of Monsters And Men, Mimosa,
+       Alabama Shakes, Reggie Watts, Trampled By Turtles, Tame Impala,
+       Jovanotti, The Be Good Tanyas, Geographer, Sharon Van Etten, Yacht,
+       Sean Hayes, Bomba Estereo, Dirty Dozen Brass Band, Big Gigantic,
+       Thee Oh Sees, Wallpaper, Tennis, Zola Jesus, White Denim, Allen Stone,
+       The M Machine, Michael Kiwanuka, Tanlines, Father John Misty,
+       Electric Guest, Caveman, Yellow Ostrich, Papa, Honey Island Swamp Bandm
+       Animal Kingdom at Outside Lands, Golden Gate Park, S.F. a/a # $225 ***
+aug 10/11/12  Mountain Vibe Music Gathering
+       fri:  Ben Benkert, Troy Hazelton, The Human Will, From The Bottom,
+       sat:  Lyrics Born, Forrest Day, Lavish Green, Arden Park Roots,
+       Space Monkey Gangstas, Oola Rocksteady, Burnt, Zuhg, Conscious Souls,
+       Thanks For Leaving, Brothers Gow, Stone Child,
+       sun:  The Stone Foxes, Hellbound Glory, Pine Box Boys, Bandit, Swoon,
+       Full On Flyhead, The Chaw, Coffin Hunter, Stone Roots, 7eat9,
+       Tiny Television, Terrel Liedstrand
+       at Shinneyboo Creek Resort, 11820 Eagle Lakes Road, Soda Springs
+       a/a $75 fri 5pm sat/sun *** (camping - music - swimming - forest)
+aug 11 sat Cobra Skulls, Dear Landlord, Murder Burgers (Scotland),
+       Dead Ringer at 924 Gilman Street, Berkeley a/a $10 8pm *** @
+aug 11 sat 45 Grave, Hellbillys (reunion), Black Widow Gothic Strip Revue,
+       The Disciples, Mutilators, Culo A Boca
+       at the Metro, Oakland 18+ $12/$15 8pm # *** (Rabid Magazine)
+aug 11 sat Agalloch, Taurus at the Great American Music Hall, S.F. 6+ **
+aug 11 sat Bow Wow at the Regency Ballroom, S.F. a/a 8pm # ** (was June 9th)
+aug 11 sat Red Eye Revue (cd release), Mr. Chin's HOt Sauce,
+       Sunny Gunn's Firestorm, Jim Bruno at Slim's, S.F. 6+ **
+aug 11 sat Lovely Bad Things, Dikes Of Holland (Austin), Wimps,
+       The Golden Pelicans (FL) at the Hemlock, S.F. 21+ $7 9pm **
+aug 11 sat Taxes, Fake Your Own Death, The Ian Fays
+       at the Bottom of the Hill, S.F. 21+ $10 8:30pm/10pm **
+aug 11 sat The Stairwell Sisters, The Country Mourns, The Better Haves,
+       dj Blaze Orange at the Cafe Du Nord, S.F. 21+ $11/$13 9pm ** (country)
+aug 11 sat Mstrkrft, The M Machine at the Independent, S.F. 21+ $35 10pm ***
+aug 11 sat Bomb Shells at 23 Club, Brisbane a/a $5 8:30pm **
+aug 11 sat Reverie at Winter's Tavern, Pacifica 21+ *
+aug 11 sat Buddy Guy at Mountain Winery, Saratoga a/a # **
+aug 11 sat Major Powers And The Lo-Fi Symphony
+       at Streetlight Records, San Jose a/a free 4pm **
+aug 11 sat Shonen Knife (Japan), The Mallard, Girls With Guns
+       at the Blank Club, San Jose 21+ $12 9pm *** @
+aug 11 sat Bad Ending, The Scowndrolls, Yankee Brutal, Chaos Chrisis,
+       Final Decay, The Aberzombies
+       at the Boardwalk, Orangevale a/a $10/$12 7pm/8pm *** @
+aug 11 sat Roger Hodgson at Cache Creek Casino Resort, Brooks 21+ 8pm **
+aug 11 sat Heartless Bastards, Little Hurricane
+       at Cargo, 255 N. Virginia Street, Reno NV a/a **
+aug 12 sun Judgement Day, As We In (Santa Fe, N.M.), Cash Pony, Silian Rain
+       at 924 Gilman Street, Berkeley a/a 5pm *** @
+aug 12 sun Dead Can Dance
+       at the Greek Theater, U.C. Berkeley Campus a/a 7:30pm # ***
+aug 12 sun Pitbull, Havana Brown, dj Slick D
+       at Civic Center, 99 Grove Street, S.F. a/a $49.50 7:30pm # **
+aug 12 sun Ethan Bortnick at Palace of Fine Arts, 3301 Lyon St., S.F. a/a # **
+aug 12 sun The Dry Season, W.L. at the Hemlock, S.F. 21+ $6 9pm **
+aug 12 sun A Flock Of Seagulls (U.K.) at Yoshi's, S.F. 21+ $25 7pm ***
+aug 12 sun The Seshen, Karyn Paige, Ex-Pyramids
+       at Cafe Du Nord, S.F. 21+ $10 8:30pm **
+aug 12 sun Grandaddy, Caveman at the Independent, S.F. 21+ $25 10pm **
+aug 12 sun The Mentors at Winter's Tavern, Pacifica 21+ *** @
+aug 12 sun Toby Keith, Brantley Gilbert, Thomas Rhett
+       at Shoreline Amphitheatre, Mountain View a/a $89-$28 6pm/7pm # **
+aug 13 mon Heart at the Mountain Winery, Saratoga a/a # **
+aug 13 mon We Are Defiance (Ocala, FL), Us From Outside, City Lights,
+       To Each His Own, Before You Fall, Straight Up Grizzly, Without An Answer
+       at the Boardwalk, Orangevale a/a $12/$15 5:30pm/6pm *** @
+aug 13 mon Heartless Bastards, Little Hurricane
+       at Harlow's, 2708 J Street, Sacramento 21+ **
+aug 14 tue These Are ur Hours, Alex Pinto Trio
+       at the Uptown, Oakland 21+ free 9pm **
+aug 14 tue Sutekh Hexen, Common Eider King Eider, Good Willsmith
+       at the Hemlock, S.F. 21+ $7 9pm **
+aug 14 tue Yes at the San Jose Civic, 135 San Carlos St., San Jose a/a # **
+aug 14 tue Heartless Bastards, Little Hurricane
+       at Rio Theater, 1205 Soquel, Santa Cruz a/a **
+aug 14 tue Polarization (L.A.), Mouth Of The Serpent, Malevolent,
+       Awaiting The Apocalypse, Gentlemen Behold!, As Dreamers
+       at the Boardwalk, Orangevale a/a $12/$14 6:30pm/7pm *** @
+aug 14 tue Battalion Of Saints, Chingado, Act Of Sabotage, Zabaleen,
+       The Oisters at Origami Lounge, 708 Cherry Street, Chico a/a $8 8pm *** @
+aug 14/15  Red Hot Chili Peppers at the Arena, Oakland a/a 8pm # ***
+aug 15 wed Lynn Drury, Gal Holiday And The Honky Tonk Revue
+       at the Brick & Mortar, S.F. 18+ $8/$8 8pm/9pm **
+aug 15 wed Hot Panda, Apopka Darkroom at the Hemlock, S.F. 21+ $6 9pm **
+aug 15 wed Little Hurricane, Vandella
+       at the Bottom of the Hill, S.F. 21+ $10 8:30pm/9pm **
+aug 15 wed Kiss, Motley Crue, The Treatment (U.K.)
+       at Shoreline Amphitheatre, Mountain View a/a $32-$158 7pm # ***
+aug 15 wed Case In Theory, Stop Motion Poetry, Atlas
+       at the Blank Club, San Jose 21+ free 9pm **
+aug 15 wed Gavin Degraw, Colbie Caillat
+       at the Bob Hope Theatre, 242 East Main Street, Stockton a/a # **
+aug 15 wed Mureau (Thousand Oaks), Kingdom Of Giants, Parley,
+       I Wish We Were Robots, The Silver Lining, Behold The Device,
+       Truly Terrifying
+       at the Boardwalk, Orangevale a/a $10/$12 5:30pm/6pm *** @
+aug 15 wed The Phenomenauts at the Press Club, 2030 P St., Sacramento 21+ *** @
+aug 16 thr Johnny Dilks & The Highway Kind, Beso Negro,
+       Shelby Cobra & Mustangs at the Uptown, Oakland 21+ $12 8pm/9pm **
+aug 16 thr Nicki Bluhm And The Gramblers
+       at the New Parish, Oakland 21+ $15 7pm/8pm **
+aug 16 thr Prizehot, Pink Films, Residual Echoes
+       at Vitus, 201 Broadway @ 2nd., Oakland 21+ $5 9pm/10pm **
+aug 16 thr Twin Shadow at the Great American Music Hall, S.F. 6+ **
+aug 16 thr Phenomenauts, Prima Donna, The Dirty Hand Family Band
+       at the Bottom of the Hill, S.F. a/a $10 8:30pm/9pm **
+aug 16 thr Alexz Johnson at the Brick & Mortar, S.F. 18+ $15/$30 7pm/8pm **
+aug 16 thr The Northeries, Adios Amigo at the Hemlock, S.F. 21+ $6 9pm **
+aug 16 thr Cherry Poppin' Daddies (OR) at Yoshi's, S.F. 21+ $22 8pm # **
+aug 16 thr The Mallard, Wimps, Big Drag at thee Parkside, S.F. 21+ $7 9pm **
+aug 16 thr Alejandro Escovedo, Jesse Malin
+       at Bimbo's 365 Club, S.F. 21+ $25 7pm/8pm **
+aug 16 thr Kiss, Motley Crue, The Treatment (U.K.) at the Pavilion, Concord
+       a/a $159-$38 5:30pm/7pm # *** (107.7 Bone Bash)
+aug 16 thr Touch'd Too Much (tribute)
+       at the Catalyst Atrium, Santa Cruz 21+ $5 8:30pm/9pm **
+aug 16 thr Human Filth (Sacramento), Brain Rott, Serpentera, Fall Of Man,
+       Incrusted Dust, Refuge
+       at the Boardwalk, Orangevale a/a $10 7pm/7:30pm ** @
+aug 16 thr All American Regects (Stillwater, OK), Eve 6
+       at the Senator Theater, 517 Main Street, Chico a/a $20 7:30pm/8:30pm **
+aug 16/17  Dr John And The Lower 911 at the Independent, S.F. 21+ $39.50 9pm **
+aug 17 fri American Lies at 924 Gilman Street, Berkeley a/a 8pm **
+aug 17 fri Samothrace (Seattle), Exhausted Prayer (L.A.), Badr Vogu,
+       Same Sex Dictator (WA), D.H.C., Iron Mountain (L.A.),
+       Mortuous (San Jose), Duke Nukem Forever, Connoisseur, Yidhra (L.A.),
+       Stares, Dead Man, Caffa, Queefer Sutherland, Cemetery,
+       Wake The Machines (Concord), Wrought Of Ills, Nihlotep, Ripgut
+       at the Metro, Oakland a/a $8 7pm/8pm # *** @ $ (Deadfest day 1)
+aug 17 fri Dolorata, Spare Parts For Broken Hearts, Playboy School
+       at the Uptown, Oakland 21+ $10 9pm **
+aug 17 fri Residual Echoes, Swiftumz, SF Watercooler
+       at the Hemlock, S.F. 21+ $7 9:30pm **
+aug 17 fri Tremor Low, Genevapop, Riot Earp
+       at the Bottom of the Hill, S.F. 21+ $10 8:30pm/10pm **
+aug 17 fri Buxter Hoot'n (ep release), Jugtown Pirates
+       at Cafe Du Nord, S.F. 21+ $10 9:30pm **
+aug 17 fri Acid Blast, Bar Fight
+       at Bender's, S.F. 21+ $5 9pm ** (save KUSF Benefit)
+aug 17 fri Super Diamond (tribute), Duran Duran Duran (tribute)
+       at Bimbo's 365 Club, S.F. 21+ $22 8pm/9pm **
+aug 17 fri Too Short at the Phoenix Theater, Petaluma a/a $25 8pm ***
+aug 17 fri Manhattan Transfer, Kellie Fuller
+       at the Uptown Theater, Napa ?/? 8pm **
+aug 17 fri Greenfields at 23 Club, Brisbane a/a $5 8:30pm **
+aug 17 fri Eric Prydz, Excision, Paul Van Dyk, Hardwell, Bingo Players,
+       Showtek, Noisia, Doctor P, Arty, Le Castle Vania, Audrey Napoleon
+       at Shoreline, Mountain View 16+ 2pm # ** (Identity Festival)
+aug 17 fri War at the Mountain Winery, Saratoga a/a # **
+aug 17 fri This Charming Band at the Blank Club, San Jose 21+ $10 9pm **
+aug 17 fri Cherry Poppin' Daddies at the Catalyst, Santa Cruz
+       21+ $19/$23 8:30pm/9pm ** (Hank 3 now aug 22)
+aug 17 fri Great White, Faster Pussycat, Pretty Boy Floyd, Bullet Boys
+       at the Ace of Spades, Sacramento a/a **
+aug 17 fri Dire Peril (Citrus Heights), Solanum, Legion's Requiem,
+       Zombie Death Stench, Shades Of Devastation
+       at the Boardwalk, Orangevale a/a free 7pm/8pm ** @
+aug 17 fri ZZ Top
+       at Thunder Valley Casino, 1200 Athens Avenue, Lincoln 18+ 8pm ***
+aug 17 fri The English Beat (Brimingham, England)
+       at Humboldt Brews, 856 10th at I, Arcata 21+ $20 9pm ***
+aug 17/18  Super Diamond (tribute), Duran Duran Duran (tribute)
+       at Bimbo's 365 Club, S.F. 21+ $22 8pm/9pm **
+aug 17/18/19 Phish
+       at Civic Center, 99 Grove Street, S.F. a/a $60 7:30pm # ** (sold out)
+aug 17/18/19 Hiroshima
+       at Yoshi's, Oakland 21+ $28 (8pm & 10pm fri/sat) (6pm & 8pm sun) **
+aug 18 sat Piss & Blood (Orange County), The Downstrokes (WA),
+       Decent Criminal, Elegant Trash
+       at 924 Gilman Street, Berkeley a/a 8pm *** @
+aug 18 sat Negative Standards, Burmese, Bloody Phoenix (L.A.), Amarok (Chico),
+       War Trash, God Awful Noise (AZ), Reivers, Bruxers (San Jose),
+       Semtex Vest (L.A.), Your Enemy, Worthless Eaters (Portland),
+       Aputossos (L.A.), Pigeonwing (L.A.), Harassor (L.A.), Human Waste,
+       Short Changed, Death King (L.A.), Grinding Detrament (L.A.),
+       Chetwrecker, Infernal Damnation (L.A.), Old Crow, Detest (L.A.),
+       Satya Sena, Dead Pressure (San Jose),
+       These Are Da Results Of A Thousand Electric Voltz (San Jose),
+       They...Are All Dead, Mrsa, Limbs, Knife Gun, Corruption Scheme,
+       Instincts, Warscythe, Venkman, Ladies Nite (San Jose), Crypt Keeper
+       at the Metro, Oakland a/a $8 3pm/4pm # *** @ $ (Deadfest day 2)
+aug 18 sat Peter Murphy, Ours
+       at the New Parish, Oakland 21+ $30/$35 8:30pm/9pm ***
+aug 18 sat Mrs. Magician at the Uptown, Oakland 21+ $10 9pm **
+aug 18 sat Catacomb Creeps, Hornss, Guitar Magazine
+        at the Hemlock, S.F. 21+ $5 5pm ** (early show)
+aug 18 sat Permanent Collection, Bilinda Butchers, Love Cuts
+       at the Hemlock, S.F. 21+ $7 9:30pm ** (late show)
+aug 18 sat 3 Mile Pilot, Dramady
+       at the Bottom of the Hill, S.F. 21+ $17/$20 8:30pm/10pm **
+aug 18 sat Lee Fields & The Expressions at the Independent, S.F. 21+ $25 9pm **
+aug 18 sat Cherry Poppin Daddies, Deke Dickerson
+       at the Uptown Theater, Napa ?/? 7pm **
+aug 18 sat V-Town Have-Nots (reunion), Bankrupt District, D.U.B., Uvr, Spu
+       at Chris' Club, 656 Benicia Rd., Vallejo 21+ $5 9pm **
+aug 18 sat Huey Lewis & The News, Joe Cocker at the Pavilion, Concord
+       a/a $134-$20 6:30pm/8pm # *** (103.7 Summerfest)
+aug 18 sat Death Master at Winter's Tavern, Pacifica 21+ **
+aug 18 sat Eliquate at Streetlight Records, San Jose a/a free 4pm ** (hip-hop)
+aug 18 sat ZZ Top at the Mountain Winery, Saratoga a/a # ***
+aug 18 sat Kyle Turley Band
+       at the Catalyst Atrium, Santa Cruz 21+ $7/$11 8:30pm/9pm **
+aug 18 sat Stepchild, Soul Motor, Zeroclient, For All I've Done, Are We Human
+       at the Ace of Spades, Sacramento a/a **
+aug 18 sat Riff/Raff (tribute), Love Drive (tribute), Rue The Night (tribute)
+       at the Boardwalk, Orangevale a/a $10/$12 7pm/8pm **
+aug 18 sat Blackstreet at Cache Creek Casino Resort, Brooks 21+ 8pm **
+aug 19 sun indie-mart at thee Parkside, S.F. a/a free noon til 7pm
+aug 19 sun Diana Krall
+       at Davies Symphony Hall, 201 Van Ness Ave., S.F. a/a # **
+aug 19 sun Braid, Owen, TS & The Past Haunts at Slim's, S.F. 6+ **
+aug 19 sun Me First And The Gimme Gimmes, Old Man Markley, Runny, dj Big Nate
+       at the DNA Lounge, S.F. a/a $16 8pm/9pm *** @
+aug 19 sun Calvin Johnson, Katie & The Lichen, The Shivas, The Memories
+       at Cafe Du Nord, S.F. a/a $8 9pm **
+aug 19 sun EmptyRoom, MnttaB (Austrailia), Diesel Dudes
+       at the Hemlock, S.F. 21+ $6 9pm **
+aug 19 sun Chiddy Bang at the Independent, S.F. 21+ $20 9pm **
+aug 19 sun ZZ Top, The Cult at the Pavilion, Concord
+       a/a $125-$20 6:30pm/7:30pm # *** (107.7 The Bone BBQ)
+aug 19 sun Strung Out, The Darlings, Handguns, Lonely Kings
+       at the Ace of Spades, Sacramento a/a ** @
+aug 20 mon Polica (Minneapolis), Supreme Cuts
+       at the Independent, S.F. 21+ 9pm ** (sold out)
+aug 21 tue Kayo Dot, Hollow Mirrors, Wild Hunt, Marching Mind, Abstracter
+       at the Metro, Oakland a/a $8 6pm/7pm # **
+aug 21 tue Measure, Kirk Hamilton, Whitney Nichole
+       at the Brick & Mortar, S.F. 18+ $5/$8 8pm/9pm **
+aug 21 tue Dana Falconberry, Emily Jane White
+       at the Hemlock, S.F. $8 9pm **
+aug 21 tue The Dunwells at the Independent, S.F. 21+ $12/$14 8pm **
+aug 21 tue Chiddy Bang, K-Ottic, J. Sirus, Brodi Nicholas
+       at the Ace of Spades, Sacramento a/a **
+aug 22 wed Pat Travers, LoNero
+       at the New Parish, Oakland 18+ $20/$25 8pm/9pm ***
+aug 22 wed Apache Dropout, Burnt Ones at the Hemlock, S.F. $7 9pm **
+aug 22 wed Colbie Caillat, Gavin DeGraw at Mountain Winery, Saratoga a/a # **
+aug 22 wed Up & Go at the Blank Club, San Jose 21+ free 9pm **
+aug 22 wed Hank 3 at the Catalyst, Santa Cruz 21+ $19/$24 8pm/9pm ***
+aug 23 thr Kool A.D. at the New Parish, Oakland 18+ $15/$20 9pm ***
+aug 23 thr Saything, The F-Holes, The Goldenhearts,
+       Gladiators Eat Fire (Seattle) at the Stork Club, Oakland 21+ ** @
+aug 23 thr The Iguanas at the Great American Music Hall, S.F. 6+ **
+aug 23 thr Matthew Stewart, Paige And The Thousands (ep release), Roem Baur
+       at the Brick & Mortar, S.F. 18+ $10 7pm til 10pm **
+aug 23 thr Eleni Mandell, David Dondero
+       at Cafe Du Nord, S.F. 21+ $12/$14 8pm **
+aug 23 thr El Cajon, Steakhouse at the Hemlock, S.F. $6 9pm **
+aug 23 thr Brian Regan
+       at Center for Performing Arts, 255 Almaden Blvd., San Jose a/a # ***
+aug 23 thr Chris Botti
+       at Montalvo Arts Center, Saratoga a/a $95-$50 6:30pm/7:30pm **
+aug 23 thr Three Mile Pilot, Dramady, Time Spent Driving
+       at the Catalyst Atrium, Santa Cruz 16+ $15 8pm/9pm **
+aug 23 thr Pat Travers (Toronto, Ontario, Canada), Larisa Bryski,
+       The Hunter And The Wolf, Island Of Black & White
+       at the Boardwalk, Orangevale a/a $20 7pm/8pm ***
+aug 24 fri Sworn Vengeance at 924 Gilman Street, Berkeley a/a 8pm ** @
+aug 24 fri Corey Action And The Verbs
+       at the Metro, Oakland a/a $10 6:30pm/7:30pm # **
+aug 24 fri Schande at the Space Lounge, 2175 Allston Way, Berkeley a/a $5 8pm *
+aug 24 fri Cannibal Corpse, Between The Buried And Me, The Faceless, Periphery,
+       Veil Of Maya, Job For A Cowboy, Goatwhore, Exhumed, Cerebral Bore
+       at the Fillmore, S.F. a/a $32.50 2:30pm # *** @ $ (summer Slaughter)
+aug 24 fri The Mermen, Red Meat at the Great American Music Hall, S.F. 6+ **
+aug 24 fri Hank 3, Hellbilly, Attention Deficit Domination, 3 Bar Ranch'
+       at the Regency Ballroom, S.F. a/a 8:30pm # **
+aug 24 fri American Steel, The Reckless Kind, Ilona Staller
+       at the Bottom of the Hill, S.F. a/a $12 8:30pm/9pm ** @
+aug 24 fri Nasty FM, Mr. Nitty, Krishna, Rugby at Slim's, S.F. 6+ **
+aug 24 fri Turks, Winter Ox at the Hemlock, S.F. 21+ $7 9:30pm **
+aug 24 fri Aftermath at 23 Club, Brisbane a/a $5 8:30pm **
+aug 24 fri Gift Of Gab, Max Bundles at the Ace of Spades, Sacramento a/a **
+aug 24 fri Restrayned (cd release), Overwatch, The Absolutes, Illusions Echo
+       at the Boardwalk, Orangevale a/a $10/$12 7pm/8pm ** @
+aug 25 sat Battalion Of Saints, 13 Cars (WA), Dairy Queens, The Nerv,
+       Blood Shot & Dilated at 924 Gilman Street, Berkeley a/a 8pm *** @
+aug 25 sat Slaughter by the Water
+       at the USS Hornet, 707 Hornet Way, Alameda a/a 2pm til 10pm *** @
+aug 25 sat Female Trouble at Starry Plough, 3101 Shattuck, Berkeley 21+ *
+aug 25 sat Fred Frith at Slim's, S.F. +6 ** (was Feb. 26th)
+aug 25 sat The Good Luck Thrift Store Outfit, The Trespassers,
+       The Harmed Brothers at the Great American Music Hall, S.F. 6+ **
+aug 25 sat Petty Theft (tribute), The Minks (tribute)
+       at the Cafe Du Nord, S.F. 21+ $$15 9:30pm **
+aug 25 sat The Hooks, Eastern Span, Static Thought, InterChords
+       at the Bottom of the Hill, S.F. 21+ $10 8:30pm/9pm *** @
+       (Joe Strummer tribute - Benefit for Strummerville)
+aug 25 sat The Mantles, English Singles, New Faultlines
+       at the Hemlock, S.F. 21+ $8 9:30pm **
+aug 25 sat In Rare Form (cd release), The New Up, Sean Leahy Trio, Blisses B
+       at the Brick & Mortar, S.F. 21+ $10/$13 8pm/9pm **
+aug 25 sat Foreverland (tribute) at Bimbo's 365 Club, S.F. 21+ $22 8pm/9pm **
+aug 25 sat Dave Koz, BeBe Winans
+       at Montalvo Arts Center, Saratoga a/a $85-$40 6:30pm/7:30pm **
+aug 25 sat Rosanne Cash, Shawn Mullins at the Uptown Theater, Napa 21+ 8pm **
+aug 25 sat Burke, Stiles & Jones at 23 Club, Brisbane a/a $5 8:30pm **
+aug 25 sat Butlers at Winter's Tavern, Pacifica 21+ *
+aug 25 sat The Phenomenauts, Bomb The Music Industry (N.Y.), Prima Donna,
+       Kepi Ghoulie, Dog Party, Pets, dj Coco
+       at X-Bar, Homestead Lanes, Cupertino a/a $10 8pm *** @
+aug 25 sat Full Blown Stone at the Ace of Spades, Sacramento a/a **
+aug 25 sat Lonely Avenue (Placerville), Wearing It Out In Public
+       at the Boardwalk, Orangevale a/a $10 7pm/8pm **
+aug 25 sat George Benson at Cache Creek Casino Resort, Brooks 21+ 8pm **
+aug 25 sat Hank 3 at Knitting Factory, Reno, NV a/a **
+aug 25 sat Airpocalypse, The Fabulous Downey Brothers,
+       Season Of The Witch
+       at Monstros Pizza, 628 W. Sacramento Ave., Chico a/a $5 8pm ** @
+aug 25 sat The Brothers Comatose
+       at Humboldt Brews, 856 10th at I, Arcata 21+ $10 9:30pm **
+aug 25/26  Kid Cudi, Nas, Atmosphere, Mac Miller, Common, A$ap Rocky, Jadakiss,
+       Deltron 3030, Ice Cube, Method Man & Redman, Wu Block,
+       The Hit Squad (reunion), Kendrick Lamar, Dipset, Tyga,
+       Immortal Technique, Pusha T, 2 Chainz, Naughty By Nature,
+       MixMaster Mike, dj Quik, Big Daddy Kane, Salt-N-Pepa, Slick Rick,
+       Prodigy, dj Lance Rock & Friends, Yelawolf, Schoolboy Q, AB-Soul,
+       Jay Rock, Murs + Fashawn, Zion-I + Grouch + Eligh, Dom Kennedy,
+       Watsky, Bone Thugs-N-Harmony at Shoreline, Mountain View
+       18+ $240-$99 11:30am/noon # *** (Rock the Bells)
+aug 26 sun OK Go, The Family Crest
+       at Stern Grove Festival, 19th Ave. at Sloat Blvd., S.F. a/a free 2pm ***
+aug 26 sun Kristin Hersh at Cafe Du Nord, S.F. 21+ $17/$20 9pm **
+aug 26 sun Steve Martin And The Steep Canyon Rangers
+       at Mountain Winery, Saratoga a/a # **
+aug 26 sun Marc Anthony, Chayanne, Marco Antonio Solis
+       at the Shark Tank, San Jose a/a 7pm # ***
+aug 26 sun Bomb The Music Industry, Dan Potthast, Shinobu (reunion), Gnarboots
+       at the Catalyst Atrium, Santa Cruz 16+ $8/$10 8pm/9pm **
+aug 26 sun Bobaflex (Point Pleasant, W.V.), Long In The Tooth, Six Weeks Sober,
+       The Andromeda Project
+       at the Boardwalk, Orangevale a/a $12/$15 6pm/7pm *** @
+aug 26 sun Saving Abel at the Ace of Spades, Sacramento a/a **
+aug 27 mon Bomb The Music Industry, Classics Of Love, Street Eaters
+       at the Bottom of the Hill, S.F. a/a $9 8pm/8:30pm *** @
+aug 27 mon Neil Diamond
+       at the Pavilion, 1 Sports Parkway, Sacramento a/a 8pm a/a # ***
+aug 28 tue Windham Flat, Side Hackers at the Hemlock, S.F. $6 9pm **
+aug 28 tue Beres Hammond, 9Tomorrows, dj Inferno
+       at the Independent, S.F. 21+ $30 9pm **
+aug 28 tue Crashfaster, Awkward Terrible (WI), Minusbaby (N.Y.), Slime Girls
+       at X-Bar, Homestead Lanes, Cupertino a/a free 8pm **
+aug 28 tue Desaparecidos, The Velvet Teen
+       at Senator Theater, 517 Main Street, Chico a/a $22 7:30pm/8:30pm *** @
+aug 28 tue cancelled:  David Allan Coe at the El Rey Theater, Chico
+aug 29 wed Desaparecidos, The Velvet Teen
+       at the Regency Ballroom, S.F. a/a $25 8pm # **
+aug 29 wed Dirty Power, Enorchestra (tribute)
+       at the Bottom of the Hill, S.F. 21+ $10 8:30pm/9pm **
+       (Benefit for Blixa)
+aug 29 wed cancelled:  Coolzey, The Rhombus at the Hemlock, S.F.
+aug 29 wed Civil Twilight, Morning Parade, Vanaprasta
+       at the Independent, S.F. 21+ $12/$14 8pm **
+aug 29 wed cancelled:  David Allan Coe at the Uptown, Oakland
+aug 30 thr Michael Rose at the New Parish, Oakland 18+ $20/$25 8pm/9pm **
+aug 30 thr Author & Punisher, Abstracter
+       at the Lucky 13, 1301 Park St, Alameda 21+ free 9pm **
+aug 30 thr Why? at the Great American Music Hall, S.F. 6+ **
+aug 30 thr Juanita And The Rabbit
+       at the Bottom of the Hill, S.F. 21+ $10 8:30pm/9:30pm *
+aug 30 thr Lusjoints (cd release), Extra Classic, Sun Life
+       at Cafe Du Nord, S.F. 21+ $10 8:30pm **
+aug 30 thr Ugly Winner, Big Mittens at the Hemlock, S.F. $6 9pm **
+aug 30 thr Black Mountain, Quest For Fire
+       at the Independent, S.F. 21+ $17 8pm **
+aug 31 fri Citizen's Arrest (N.Y.C.), Talk Is Poison, Acephalix, Hunting Party,
+       No Mistake at the New Parish, Oakland a/a $13 8pm *** @
+       (Prank Fest Night 1)
+aug 31 fri Eyehategod, Noothgrush, Bastard Noise, Stone Burner, Embers,
+       Badr Vogu at the Metro, Oakland a/a $20/$23 # *** @
+aug 31 fri Refused (Sweden), Sleigh Bells
+       at Civic Center, 99 Grove Street, S.F. a/a # *** @
+aug 31 fri A.A. Bondy at the Great American Music Hall, S.F. 6+ **
+aug 31 fri Super Adventure Club
+       at the Bottom of the Hill, S.F. a/a $10 8:30pm/10pm *
+aug 31 fri Turbonegro at Slim's, S.F. 6+ *** @ $
+aug 31 fri CyClub, East Bay Brass Band at the Hemlock, S.F. 21+ $7 9:30pm **
+aug 31 fri Chromatics at the Mezzanine, S.F. 21+ **
+aug 31 fri 311, Slightly Stoopid, Soja
+       at Shoreline Amphitheatre, Mountain View a/a # 6:30pm # ***
+aug 31 fri Trench, Secure Sounds, The Jet Black Popes, Saythia, Dammit Kayla
+       at the Boardwalk, Orangevale a/a $12/$15 6pm/7pm **
+aug 31 fri Dierks Bentley
+       at Reno Events Center, 300 N Center St., Reno, NV a/a 8pm # **
+sep  1 sat Yeasayer, Daughn Gibson (Carlisle, PA)
+       at the Fox Theater, Oakland a/a # ***
+sep  1 sat The Promise Ring, The One AM Radio
+       at the Fillmore, S.F. a/a $25 8pm/9pm # ***
+sep  1 sat Foxtails Brigade, Yesway, Whiskerman
+       at the Bottom of the Hill, S.F. 21+ $10 8:30pm/10pm **
+sep  1 sat Band Of Heathens at Cafe Du Nord, S.F. 21+ $12/$15 9:30pm **
+sep  1 sat Sands, Body Swap at the Hemlock, S.F. $7 9:30pm **
+sep  1 sat Brown Bird, These United States
+       at the Independent, S.F. 21+ $12/$14 9pm **
+sep  1 sat The Reefriders at 23 Club, Brisbane a/a $5 8:30pm ** (surf)
+sep  1 sat Tongue N' Groove at Winter's Tavern, Pacifica 21+ **
+sep  1 sat Chixdigget (Calgary, Canada), Boats!
+       at the Boardwalk, Orangevale a/a $12/$15 7pm/8pm *** @
+sep  1/2   Sarah Geronimo at Cache Creek Casino Resort, Brooks 21+ 8pm **
+sep  2 sun Iron Lung, Slices (PA), Brainoil, Walls, Needles
+       at 924 Gilman Street, Berkeley a/a 5pm *** @ (Prank Fest Night 3)
+sep  2 sun Old 97's, Those Darlins, Rhett Miller
+       at the Fillmore, S.F. a/a 8pm # ***
+sep  2 sun The Pharcyde at Yoshi's, S.F. 21+ $22/$26 10:30pm **
+sep  2 sun The Men at the Independent, S.F. 21+ $12 9pm **
+sep  2 sun John Hiatt at the Uptown Theater, Napa 21+ 8pm **
+sep  2 sun The Melvins at the Ace of Spades, Sacramento a/a *** @
+sep  3 mon Beirut, Van Dyke Parks at the Fox Theater, Oakland a/a 8pm # **
+sep  3 mon Lightning Bolt at the New Parish, Oakland 18+ $12/$14 8pm/9pm **
+sep  3 mon Hot Snakes at Slim's, S.F. 6+ **
+sep  3 mon Purity Ring, Evian Christ, Headaches, dj Nako
+       at the Bottom of the Hill, S.F. a/a $12 8:30pm/9pm **
+sep  3 mon Gold Panda, Doldrums at the Great American Music Hall, S.F. 6+ **
+sep  3 mon David Allan Coe at the Mezzanine, S.F. 21+ ***
+sep  3 mon John Maus, I Break Horses at the Independent, S.F. 21+ $13 9pm **
+sep  3 mon Steel Pulse (U.K.)
+       at the Catalyst, Santa Cruz 16+ $28/$33 7pm/8pm **
+sep  3 mon Future Islands
+       at the Catalyst Atrium, Santa Cruz 21+ $10/$13 8:30pm/9pm **
+sep  3 mon Against Me!, Andrew Jackson Jihad, Joyce Manor
+       at the Ace of Spades, Sacramento a/a *** @
+sep  4 tue King Khan & The Shrines, Apache
+       at the Great American Music Hall, S.F. 6+ **
+sep  4 tue The Heavy at Slim's, S.F. 6+ ***
+sep  4 tue Something Fierce, Occult Detective Club
+       at the Hemlock, S.F. 21+ $7 9pm **
+sep  4 tue Future Islands at the Independent, S.F. 21+ $14/$16 8pm **
+sep  4 tue David Allan Coe, Colonel Jimmy & The Blackfish, Matt W. Gage,
+       Dry County Drinkers at the Ace of Spades, Sacramento a/a ***
+sep  5 wed Fucked Up, Ceremony at the Great American Music Hall, S.F. 6+ *** @
+sep  5 wed Daughn Gibson (Carlisle, PA) at the Elbo Room, S.F. 21+ **
+sep  5 wed The Heavy at the Blank Club, San Jose 21+ $12/$14 9pm ***
+sep  5 Rehab, Moonshine Bandits
+       at the Catalyst Atrium, Santa Cruz 21+ $12/$15 8:30pm/9pm **
+sep  5 wed Powerman 5000, Prylosis, Fair Struggle, White Minorities,
+       The Origina at the Ace of Spades, Sacramento a/a **
+sep  5 wed Beats Antique
+       at the Senator Theater, Chico a/a $18 8:30pm/9pm ***
+sep  6 thr Gotye (Australia), Chairlift, Jonti
+       at the Greek Theater, U.C. Berkeley Campus a/a # ***
+sep  6 thr The Tallest Man On Earth, Strand Of Oaks
+       at the Fox Theater, Oakland a/a 8pm # **
+sep  6 thr Blue Skies For Black Hearts, Bye Bye Blackbirds,
+       John Moreman's Floatation Device at the Hemlock, S.F. 21+ $8 9pm **
+sep  6 thr Buckethead at the Ace of Spades, Sacramento a/a ***
+sep  7 fri Edward Sharpe And The Magnetic Zeros, Clap Your Hands And Say Yeah
+       at the Greek Theater, U.C. Berkeley Campus, Berkeley a/a # **
+sep  7 fri Young Prisms, Mwahaha, Clipd Beaks!
+       at the Uptown, Oakland 21+ free 6pm/9pm **
+sep  7 fri Big Freedia at the New Parish, Oakland 18+ $15/$20 8pm/9pm **
+sep  7 fri Katatonia, Devin Townsend Project, Paradise Lost, Stolen Babies
+       at the Great American Music Hall, S.F. 6+ $24 7pm/8pm **
+sep  7 fri Roach Gigz at Slim's, S.F. 6+ ***
+sep  7 fri Buckethead at the Fillmore, S.F. a/a 9pm # ***
+sep  7 fri The Hi-Nobles, Pre-Legendary And The Dreamers, Angstroms
+       at the Hemlock, S.F. 21+ $7 9:30pm **
+sep  7 fri Linkin Park, Incubus, Mutemath
+       at Shoreline, Mountain View a/a $106-$36 5:30pm/6:30pm # ***
+sep  7 fri BB King at the Mountain Winery, Saratoga a/a # ***
+sep  7 fri Scissors For Lefty, Mr. Loveless, Sporting LIfe
+       at the Blank Club, San Jose 21+ $10 9pm ***
+sep  7 fri Tedeschi Trucks Band
+       at the Bob Hope Theatre, 242 East Main Street, Stockton a/a # **
+sep  8 sat Roddy Radiation, Skabilly Rebels, Impalers, Jokes For A Feelngs,
+       Imposters at 924 Gilman, Berkeley a/a 8pm *** @ (Sounds of Underground)
+sep  8 sat The Adicts at Slim's, S.F. 6+ *** @ $
+sep  8 sat Jason Isbell  & The 400 Unit, Kasey Anderson & The Honkies
+       at the Great American Music Hall, S.F. 6+ **
+sep  8 sat Doe Eye (cd release)
+       at the Bottom of the Hill, S.F. 21+ $10/$12 8:30pm/9:30pm *
+sep  8 sat Crystal Antlers, Pang at the Hemlock, S.F. 21+ $10 9:30pm **
+sep  8 sat The Fresh & Onlys, Terry Malts, dj Britt Govea
+       at the Independent, S.F. 21+ $15 9pm **
+sep  8 sat High n Tight at Winter's Tavern, Pacifica 21+ **
+sep  8 sat Crosby, Stills & Nash
+       at the San Jose Civic, 135 San Carlos St., San Jose a/a # ***
+sep  8 sat Tedeschi Trucks Band at Mountain Winery, Saratoga a/a # **
+sep  8 sat Buckethead at the Catalyst, Santa Cruz 16+ $20/$25 8pm/9pm ***
+sep  8 sat Rehab at the Ace of Spades, Sacramento a/a **
+sep  8 sat Arsonists Get All The Girls, Hypno5e, Exotic Animal Petting Zoo,
+       Of Reflections, Calista Sky, In Theory, The War Within
+       at the Boardwalk, Orangevale a/a $12/$15 6:30pm/7pm *** @
+sep  8 sat Ziggy Marley at Cache Creek Casino Resort, Brooks 21+ 8pm **
+sep  9 sun Oppressed Logic, ZeroBullshit, Whoremoans, Beverly Beer Bellys,
+       Rat Damage at 924 Gilman, Berkeley a/a 4pm *** @ (Niki Davis Benefit)
+sep  9 sun Dokken, Spiral Arms, The Butlers
+       at the New Parish, Oakland 18+ $27/$30 8pm *** @
+sep  9 sun Covenant (Sweden), The Break Up, dj Decay
+       at the DNA Lounge, S.F. a/a $15/$22 8pm/9pm ***
+sep  9 sun Shannon And The Clams, Mikal Cronin, dj Jonathan Toubin, dj Primo
+       at the Great American Music Hall, S.F. 6+ ** (clap & dance off)
+sep  9 sun Get Dead, Burn Burn Burn!, The Savage Henrys
+       at the Hemlock, S.F. 21+ $6 6pm ** (early show)
+sep  9 sun Buckethead at the Uptown Theater, Napa 21+ ***
+sep  9 sun Dave Matthews Band, Allen Stone
+       at Shoreline Amphitheatre, Mountain View a/a $75/$40 5:30pm/7pm # ***
+sep  9 sun Fiona Apple, Blake Mills
+       at the San Jose Civic, 135 San Carlos St., San Jose a/a # ***
+sep  9 sun Styx at the Mountain Winery, Saratoga a/a # ***
+sep  9 sun The Vibrators, Boats! at the Blank Club, San Jose 21+ $10 8pm *** @
+sep  9 sun The Fresh & Onlys, Terry Malts
+       at the Catalyst Atrium, Santa Cruz 16+ $10/$13 8:30pm/9pm ** @
+sep 10 mon The Hives at the Fox Theater, Oakland a/a 8pm # ***
+sep 10 mon Blondie, Devo at the Warfield, S.F. a/a $93-$40 7pm/8pm # *** $
+sep 10 mon Swans, Xiu Xiu at the Regency Ballroom, S.F. a/a 8pm # ***
+sep 10 mon JC Brooks And The Uptown Sound
+       at Cafe Du Nord, S.F. a/a $10/$12 9:30pm **
+sep 10 mon Buckethead at the El Rey Theater, Chico a/a $22 8pm/8:30pm ***
+sep 11 tue Hot Chip at the Fox Theater, Oakland a/a 8pm # **
+sep 11 tue The Vibrators, Pissed Off Punks
+       at the Uptown, Oakland 21+ $10 8pm *** @
+sep 11 tue Korpiklaani, Moonsorrow, Tyr
+       at the DNA Lounge, S.F. a/a $20/$25 7pm/7:30pm *** @
+sep 11 tue Fiona Apple, Blake Mills at the Warfield, S.F. a/a 8pm # ***
+sep 11 tue The Fresh & Onlys at the Ace of Spades, Sacramento a/a **
+sep 12 wed Silversun Pickups, School Of Seven Bells, Atlas Genius
+       at the Fox Theater, Oakland a/a 7:30pm # *** $
+sep 12 wed Thrill Kill Kult, Total Accomplishment
+       at the DNA Lounge, S.F. a/a $18/$20 7pm/8pm ***
+sep 12 wed Forever Goldrush, Electric Sheep at the Hemlock, S.F. 21+ $6 9pm **
+sep 12 wed Moonface, Foxygen at the Independent, S.F. 21+ $15 8pm **
+sep 13 thr Night Nurse at the Hemlock, S.F. 21+ **
+sep 13 thr Huckle, True Spokes at Cafe Du Nord, S.F. a/a $10/$12 8pm **
+sep 13 thr Rascal Flatts, Little Big Town
+       at Shoreline Amphitheater, Mountain View a/a # **
+sep 13 thr James McMurtry, The Gourds
+       at the Catalyst Atrium, Santa Cruz 21+ $21/$25 7pm/8pm **
+sep 14 fri Yeastie Boys Guantanamo Dogpile, Go Time, Seduce The Dead
+       at 924 Gilman Street, Berkeley a/a 8pm *** @
+sep 14 fri GG Amos, Delta Wires
+       at Point Richmond Square, Washington Ave. & Park Place, Roint Richmond
+       a/a free 5:30pm **
+sep 14 fri Bonnie Raitt, Mavis Staples
+       at the Greek Theater, U.C. Berkeley Campus a/a 8pm # ***
+sep 14 fri Mana at the Arena, Oakland a/a 8pm # **
+sep 14 fri Tha Dogg Pound at the New Parish, Oakland 18+ $22-$40 8pm/9pm **
+sep 14 fri Roxette (Sweden)
+       at Nob Hill Masonic Center, S.F. a/a $95-$45 7:30pm # **
+sep 14 fri James McMurtry, The Gourds
+       at the Great American Music Hall, S.F. 6+ **
+sep 14 fri Mercy Me, Francis Chan at the Warfield, S.F. a/a 7pm # **
+sep 14 fri The Aerosols, Sea Dramas, WetDreamsDryMagic
+       at the Hemlock, S.F. 21+ $7 9:30pm **
+sep 14 fri Lila Downs at the Uptown Theater, Napa 21+ 8pm **
+sep 14 fri Def Leppard, Poison
+       at the Pavilion, Concord a/a $134-$29 6pm/7pm # ***
+sep 14 fri Rascal Flatts, Little Big Town, Eli Young Band, Edens Edge
+       at Shoreline Amphitheatre, Mountain View a/a # **
+sep 14 fri Anthrax, Testament, Death Angel
+       at the Ace of Spades, Sacramento a/a *** @ $
+sep 14 fri Rose Funeral (Cincinnati, OH), The Kennedy Veil, Soma Ras,
+       Gary Busey Amber Alert, ...And Came Back Brutal, A Plague Upon Her
+       at the Boardwalk, Orangevale a/a $10/$12 5:30pm/6:30pm *** @
+sep 15 sat My Morning Jacket, Shabazz Palaces
+       at the Greek Theater, U.C. Berkeley Campus a/a # *** @
+sep 15 sat M.I.R.V. at the New Parish, Oakland 18+ $15/$20 8pm ***
+sep 15 sat Weekend at the Uptown, Oakland 21+ $12 8:30pm **
+sep 15 sat Metalocalypse, Dethklok, Lamb Of God, Gojira (France)
+       at Civic Center, 99 Grove St., S.F. a/a $38/$40.50 6:30pm/7:30pm # *** @
+sep 15 sat Los Straitjackets, Big Sandy And His Fly-Rite Boys
+       at the Great American Music Hall, S.F. 6+ **
+sep 15 sat The Good Hurt, Matt Masih And The Messengers at Slim's, S.F. 6+ **
+sep 15 sat Boyjazz, Hot Lunch, Hot Fog at the Hemlock, S.F. 21+ $8 9:30pm **
+sep 15 sat The Mutaytor at the Independent, S.F. 21+ $20/$25 9pm ***
+sep 15 sat Skyline Blues Band at Winter's Tavern, Pacifica 21+ **
+sep 15 sat E-Family at Cache Creek Casino Resort, Brooks 21+ 8pm **
+sep 16 sun Polkacide, Erin Brazill & The Brazillionaires, Sassy
+       at thee Parkside, S.F. a/a $5-$10 11am **
+       (PolkaPalooza - Benefit J.Serra Elementary School)
+sep 16 sun Austra, Nightmare Fortress, Vice Device
+       at the Independent, S.F. 21+ $15 8pm ***
+sep 17 mon B'z at the Warfield, S.F. a/a 7:30pm # **
+sep 19 wed Icon Of Coil, Sitd, dj Decay
+       at the DNA Lounge, S.F. a/a $15/$22 8pm/9pm **
+sep 19 wed August Burns Red, Of Mice And Men, The Color Morale, The Overseer
+       at the Senator Theater, Chico a/a $20 7pm/7:30pm ***
+sep 19/20  Crosby, Stills & Nash at the Fillmore, S.F. a/a $61 7pm/8pm # ***
+sep 20 thr Maximo Park at Slim's, S.F. 6+ **
+sep 20 thr Azure Ray
+       at the Swedish American Hall, 2170 Market Street, S.F. a/a $15 8pm **
+sep 20 thr Working From Home, Talk Tonight
+       at the Cafe Du Nord, S.F. 21+ $10 8pm **
+sep 20 thr Casey Neill, Victor Krumenacher, Passenger & Pilot
+       at the Hemlock, S.F. 21+ $7 9pm **
+sep 20 thr Sondre Lerche at the Independent, S.F. 21+ $15 8pm **
+sep 20 thr Tomorrows Bad Seeds, Through The Roots
+       at the Ace of Spades, Sacramento a/a **
+sep 20 thr Big Time Rush, Cody Simpson
+       at Reno Events Center, 300 N Center St., Reno, NV a/a 7pm # ***
+sep 21 fri Los Amigos Infisibles
+       at the New Parish, Oakland 18+ $20/$25 8pm/9pm **
+sep 21 fri The Trophy Fire, Picture Atlantic, Case In Theory
+       at the Uptown, Oakland 21+ $10 8pm ***
+sep 21 fri Huun Huur Tu at the Great American Music Hall, S.F. 6+ ** (seated)
+sep 21 fri Bob Mould (performing Copper Blue & Silver Age)
+       at the Fillmore, S.F. a/a $25 8pm/9pm # ***
+sep 21 fri Easy Star All-Stars, Passafire at Slim's, S.F. 6+ **
+sep 21 fri Dev, Cataracs, Starting Six, dj J Espinosa, dj Trevor Simpson
+       at the Regency Ballroom, S.F. a/a $22/$24 7pm/8pm (was June 30th)
+sep 21 fri Allen Toussaint, The California Honeydrops
+       at Bimbo's 365 Club, S.F. 21+ $75-$150 7pm/8pm **
+       (Benefit Bay for the Bayou)
+sep 21 fri Reptar at the Independent, S.F. 21+ $15 9pm **
+sep 21 fri Blues Traveler at the Uptown Theater, Napa 21+ 8pm ***
+sep 21/22  Wilco at the Greek Theater, U.C. Berkeley Campus
+       a/a $49.50 7:30pm # ***
+sep 21/22  Animal Collective, Micachu And The Shapes
+       at the Fox Theater, Oakland a/a 8pm # **
+sep 21/22/23 Aerial Ruin, Aluk Todolo, Arktau Eos, Ash Borer, Blood Axis,
+       Burial Hex, Changes, Circulation Of Light, Cota, Funerary Call, Hail,
+       Hell, Hooded Archer, Ironwood, L'Acephale, Lasher Keen, Lux Interna,
+       Maa, Menace Ruine, Novemthree, Pyha Kuolema, River, sangre De Muerdago,
+       Servile Sect, Sutekh Hexen, The Lindbergh Baby, The Sterling Sisters,
+       Velnias, Vradiazei, Waldteufel, Will-O-The Wisp, Wolvserpent
+       at Shinneyboo Creek Resort, 11820 Eagle Lakes Road, Soda Springs
+       a/a $150/$180 *** (camping - music - swimming - forest)
+       (Stella Natura:  The Light of Ancestral Fires Fest)
+sep 22 sat dj Bob Mould, dj Rich Morel at Slim's, S.F. 6+ ** (Blowoff)
+sep 22 sat Bits Of Shit (Austrailia) at the Hemlock, S.F. 21+ **
+sep 22 sat The King's Men, Kirk Franklin, Marvin Sapp, Donnie McClurkin,
+       Israel Houghton at the Pavilion, Concord a/a 7:30pm # **
+sep 22 sat George Thorogood & The Destroyers
+       at the Mountain Winery, Saratoga a/a # ***
+sep 22 sat Nvs at X-Bar, Homestead Lanes, Cupertino a/a $5 8pm ** @
+sep 22 sat Easy Star All Stars
+       at the Catalyst Atrium, Santa Cruz 16+ $14/$19 8pm/9pm **
+sep 22 sat Crosby, Stills And Nash
+       at Reno Events Center, 300 N Center St., Reno, NV a/a 8pm # ***
+sep 23 sun Folsom Street Fair, Folsom St. between 7th and 12th, S.F. 11am
+sep 23 sun Merle Haggard at the Warfield, S.F. a/a # *** $
+sep 23 sun Deftones at Discovery Park, Sacramento a/a # *** @
+sep 23 sun Wilco
+       at Grand Sierra Casino, 2500 East 2nd St., Reno NV a/a $39.50 7pm # ***
+sep 24 mon Kreator, Swallow The Sun, Black Mackerel, Blessed Curse
+       at the Ace of Spades, Sacramento a/a *** @
+sep 25 tue Accept, Kreator, Swallow The Sun
+       at the Regency Ballroom, S.F. a/a 7:30pm *** @
+sep 25 tue Ryan Bingham at the Great American Music Hall, S.F. 6+ **
+sep 25 tue Menomena
+       at the Catalyst Atrium, Santa Cruz 16+ $12/$14 8:30pm/9pm **
+sep 26 wed Susan Surftone
+       at Forbidden Island, 1304 Lincoln Avenue, Alameda 21+ ** (surf)
+sep 26 wed Papa Bear And The Easy Love, Kelly McFarling, Lauren Shera
+       at the Great American Music Hall, S.F. 6+ **
+sep 26 wed Ryan Bingham at Slim's, S.F. 6+ **
+sep 26 wed Amanda Palmer & The Grand Theft Orchestra
+       at the Fillmore, S.F. a/a 8pm # **
+sep 26 wed Paula West at Yoshi's, S.F. 21+ $30 8pm ** (also Sep 27th)
+sep 26 wed Monomena at Bimbo's 365 Club, S.F. 21+ $20 7pm/8pm **
+sep 27 thr Paula West at Yoshi's, S.F. 21+ $30 (8pm show) $20 (10pm show) **
+sep 27 thr Tyrannosaurus Christ, Hysteria
+       at the Swingin Door, 106 East 25th Av., San Mateo 21+ free 8pm/9:30pm **
+sep 27 thr Hatebreed, Whitechapel, All Shall Perish, Deez Nuts
+       at the Ace of Spades, Sacramento a/a *** @
+sep 27 thr Train, Mat Kearney, Andy Grammer
+       at Reno Events Center, 300 N Center St., Reno, NV a/a 7pm # ***
+sep 28 fri Con Brio, Calaveras
+       at Point Richmond Square, Washington Ave. & Park Place, Roint Richmond
+       a/a free 5:30pm **
+sep 28 fri Train, Mat Kearney, Andy Grammer
+       at the Greek Theater, U.C. Berkeley Campus a/a 7pm # ***
+sep 28 fri Beach House, Dustin Wong
+       at the Fox Theater, Oakland a/a 8pm # ** (sold out)
+sep 28 fri Hatebreed, Whitechapel, All Shall Perish, Deez Nuts
+       at the Regency Ballroom, S.F. a/a 7:30pm # *** @
+sep 28 fri Pentatonix at the Great American Music Hall, S.F. 6+ **
+sep 28 fri Jason Aldean, Luke Bryan
+       at Shoreline Amphitheatre, Mountain View a/a # **
+sep 28 fri Jason Mraz, Christina Perri
+       at the Shark Tank, San Jose a/a 7:30pm # **
+sep 28 fri Insolence, Los Bastardos De Amore
+       at the Blank Club, San Jose 21+ $15 7pm ***
+       (Cactus Club 10 Year Anniversary Weekend)
+sep 28 fri Dirty Heads at the Senator Theater, Chico a/a $17 7:30pm/8:30pm **
+sep 29 sat Citizen Cope at the Fox Theater, Oakland a/a 8pm # **
+sep 29 sat The Velveteen at the Uptown, Oakland 21+ $10 9pm **
+sep 29 sat Il Volo at Nob Hill Masonic Center, S.F. a/a 7:30pm # **
+sep 29 sat JGB with Melvin Seals at the Great American Music Hall, S.F. 6+ **
+sep 29 sat William Elliott Whitmore, Samantha Crain at Slim's, S.F. 6+ **
+sep 29 sat Aimee Mann at the Fillmore, S.F. a/a 9pm # **
+sep 29 sat Rodriquez at Bimbo's 365 Club, S.F. 21+ $20 8pm/9pm **
+sep 29 sat Firewater, Damon & The Heathens
+       at the Independent, S.F. 21+ $13/$15 9pm **
+sep 29 sat The Shins, Tegan And Sara, Alison Krauss And Union Station,
+       Beats Antique, Matisyahu, Jimmy Cliff, Kimbra, The Dirty Heads, Givers
+       at Shoreline Amphitheater, Mountain View a/a $50-$75 2pm # *** (KFOG)
+sep 29 sat Lisa Lampanelli at the Mountain Winery, Saratoga a/a # **
+sep 29 sat Odd Numbers, Shitkickers, Hayride To Hell
+       at the Blank Club, San Jose 21+ $15 7pm **
+       (Cactus Club 10 Year Anniversary Weekend)
+sep 30 sun Hot Water Music at Slim's, S.F. 6+ ***
+sep 30 sun Joe Walsh at Montalvo Arts Center, Saratoga a/a $125-$60 6pm/7pm **
+sep 30 sun Furthur (with Phil Lesh & Bob Weir)
+       at Shoreline Amphitheatre, Mountain View a/a $65-$31 7:30pm/7pm # **
+oct  1 mon Garbage at the Warfield, S.F. a/a # ***
+oct  1 mon Deerhoof, Buke And Gase, Raleigh Moncrief at Slim's, S.F. 6+ ***
+oct  1 mon Ariel Pink's Haunted Graffiti, Dam Funk, Bodyguard
+       at Bimbo's 365 Club, S.F. 21+ $20 7pm/8pm **
+oct  2 tue Slash, Foxy Shazam at the Fox Theater, Oakland a/a 7:30pm # ***
+oct  2 tue Patrick Wolf (acoustic)
+       at the Great American Music Hall, S.F. 6+ ** (seated show)
+oct  2 tue Peter Gabriel at the Shark Tank, San Jose a/a 8pm # ***
+oct  3 wed Nightwish, Kamelot at the Warfield, S.F. a/a 8pm # ***
+oct  3 wed Strung Out, The Swellers, Such Gold at Slim's, S.F. 6+ *** @
+oct  3 wed Seether, Sick Puppies, Kyng, Young Guns
+       at Modesto Center Plaza, 1000 L Street, Modesto a/a $32 7pm/8pm ***
+oct  4 thr Jason Mraz, Christina Perri
+       at the Greek Theater, U.C. Berkeley Campus a/a # **
+oct  4 thr Delhi 2 Dublin at Slim's, S.F. 6+ **
+oct  4 thr Helio Sequence at the Independent, S.F. 21+ $18 8pm **
+oct  4 thr Joe Jackson, Regina Carter
+       at Montalvo Arts Center, Saratoga a/a $90-$40 6pm/7pm # **
+oct  4 thr Strung Out, The Swellers, Such Gold
+       at the Catalyst, Santa Cruz 21+ $18/$20 7:30pm/8pm *** @
+oct  5 fri Amon Tobin at the Greek Theater, U.C. Berkeley Campus a/a # **
+oct  5 fri Kevin Hart at the Arena, Oakland a/a $125-$50 7pm/8pm # **
+oct  5 fri Jel Of Anticon, Evander & James, Parentz
+       at the Uptown, Oakland 21+ free 6pm/9pm **
+oct  5 fri Joe Jackson at Nob Hill Masonic Center, 1111 California Street, S.F.
+       a/a $75/$45 7pm/8pm # **
+oct  5 fri Laetitia Sadier, Orca Team
+       at the Bottom of the Hill, S.F. a/a $12/$14 8:30pm/9:30pm **
+oct  5 fri Dry The River at the Independent, S.F. 21+ $15 9pm **
+oct  5 fri Florence & The Machine, The Weekend
+       at Shoreline Amphitheatre, Mountain View a/a $66-$25 7pm/8pm # ***
+oct  5 fri Lynyrd Skynyrd, The Doobie Brothers
+       at the Stockton Arena, 248 W Fremont Street, Stockton a/a # ***
+oct  5 fri Roach Gigz at the Senator Theater, Chico a/a $15 8pm/8:30pm ***
+oct  5/6/7 Hardly Strictly Bluegrass Festival, G.G.P, S.F. a/a free ***
+oct  6 sat Justin Bieber, Carly Rae Jepsen
+       at the Arena, Oakland a/a 7pm # ** $ (scream warning)
+oct  6 sat Glen Hansard at the Fillmore, S.F. a/a 9pm # **
+oct  6 sat Prizehog, Apocryphon at Bender's, S.F. 21+ $5 10pm **
+oct  6 sat Native Cats (Austrailia) at the Hemlock, S.F. 21+ **
+oct  6 sat Lynyrd Skynyrd at the Mountain Winery, Saratoga a/a # ***
+oct  6 sat The Maccabees at the Independent, S.F. 21+ $18/$20 9pm **
+oct  6 sat Roach Gigz at the Catalyst, Santa Cruz 16+ $19/$24 8pm/9pm ***
+oct  6 sat Metal Health
+       at Corner Pocket, 7777 Sunrise Boulevard, Citrus Heights 21+ $5 8pm **
+oct  6 sat Kevin Hart
+       at the Pavilion, 1 Sports Parkway, Sacramento a/a 8pm a/a # **
+oct  6/7   Madonna at the Shark Tank, San Jose a/a $359-$48 8pm # *** $
+oct  7 sun Michael Kiwanuka at the Independent, S.F. 21+ $20 8pm **
+oct  7 sun Steve Vai at the Uptown Theater, Napa 21+ 8pm **
+oct  9 tue Grizzly Bear (Brooklyn) at the Fox Theater, Oakland a/a 8pm # **
+oct  9 tue Ben Howard at the Fillmore, S.F. a/a $25 7pm/8pm # **
+oct  9 tue Steve Vai, Beverly McClellan at the Regency Ballroom, S.F. a/a # ***
+oct 10 wed Dinosaur Jr. at the Fillmore, S.F. a/a $32.50 8pm # *** @
+oct 10 wed Adam Parfrey at the Hemlock, S.F. 21+ **
+oct 10 wed Steve Vai, Beverly McClellan
+       at the Ace of Spades, Sacramento a/a ***
+oct 11 thr D.R.I., Rad, Chaos In Mind, Twitch Angry, Art Of Chaos
+       at the Ace of Spades, Sacramento a/a *** @
+oct 12 fri Morbid Angel, Dark Funeral, Grave at Slim's, S.F. 6+ *** @
+oct 12 fri Circa Survive, Touche Amore, Balance And Composure, O'Brother
+       at the Regency Ballroom, S.F. a/a 7:30pm # ***
+oct 12 fri Fink at the Brick & Mortar, S.F. 18+ $12/$15 8pm/9pm **
+oct 12 fri Blisses B at the Bottom of the Hill, S.F. 21+ $10 8:30pm/10pm **
+oct 12 fri The Raveonettes at Bimbo's 365 Club, S.F. 21+ $25 8pm/9pm **
+oct 12 fri Yelawolf, Rittz, Trouble Andrew, dj Vajra
+       at the Catalyst, Santa Cruz 16+ $19/$24 8pm/9pm **
+oct 12 fri Carrie Underwood, Hunter Hayes
+       at Reno Events Center, 300 N Center St., Reno, NV a/a 7pm # ***
+oct 12/13  Dark Star Orchestra at the Fillmore, S.F. a/a $30 8pm/9pm # ***
+oct 13 sat Gaelic Storm at Slim's, S.F. 6+ **
+oct 13 sat Girl Talk, The Presets, Porter Robinson, Public Enemy, Sbtrkt,
+       Tycho, Araabmuzik, Matthew Dear, Toro Y Moi, Grimes, The Coup, K. Flay,
+       Dirty Ghosts at Treasure Island Music Festival, S.F. Bay a/a # ***
+oct 13 sat Bell X1 (acoustic)
+       at the Swedish American Hall, 2170 Market Street, S.F. a/a $20 7:30pm **
+oct 13 sat Books On Tape at the Bottom of the Hill, S.F. 21+ $10 8:30pm/9pm *
+oct 13 sat She Haw at Winter's Tavern, Pacifica 21+ * (country)
+oct 13 sat Morbid Angel, Dark Funeral, Grave, Soma Ras
+       at the Ace of Spades, Sacramento a/a *** @
+oct 13 sat Carrie Underwood, Hunter Hayes
+       at the Pavilion, 1 Sports Parkway, Sacramento a/a 7:30pm a/a # ***
+oct 14 sun The XX, M83, Gossip, Best Coast, Divine Fits, Youth Lagoon,
+       Los Campesinos, The War On Drugs, Ty Segall, Hospitality, Imperial Teen,
+       The Neighbourhood at Treasure Island Music Festival, S.F. Bay a/a # ***
+oct 14 sun Xavier Rudd at the Fillmore, S.F. a/a 8pm # **
+oct 14 sun Carrie Underwood, Hunter Hayes
+       at the Shark Tank, San Jose a/a 7:30pm # ***
+oct 15 mon David Byrne & St. Vincent
+       at the Orpheum Theater, 1192 Market Street, S.F. a/a # ***
+oct 15 mon The Sheepdogs, Black Box Revelation
+       at the Independent, S.F. 21+ 8pm **
+oct 17 wed First Aid Kit, Dylan LeBlanc
+       at the Fillmore, S.F. a/a $22.50 7pm/8pm # **
+oct 17 wed Strfkr at Harlow's, 2708 J Street, Sacramento 21+ **
+oct 18 thr Adam Ant at the Regency Ballroom, S.F. a/a 8pm # ** (was Feb. 24th)
+oct 18 thr Poi Dog Pondering at the Great American Music Hall, S.F. 6+ **
+oct 18 thr Frightened Rabbit at the Independent, S.F. 21+ $20 8pm **
+oct 19 fri Bombay Bicycle Club, Vacationer
+       at the Fillmore, S.F. a/a $22.50 8pm/9pm # **
+oct 19 fri Neverever, Kids On A Crime Spree at the Hemlock, S.F. 21+ **
+oct 19 fri Aaron Freeman at the Independent, S.F. 21+ $22/$25 9pm **
+oct 20 sat Jorma Kaukonen at Swedish American Hall, S.F.
+       a/a $32/$35 7pm and 10pm shows **
+oct 20 sat Wanda Sykes at the Nob Hill Masonic, S.F. a/a 8pm # **
+oct 20 sat Stars at the Fillmore, S.F. a/a 8pm # **
+oct 20 sat Cheap Time at the Hemlock, S.F. 21+ *
+oct 20 sat Rock On Broadway at Winter's Tavern, Pacifica 21+ *
+oct 20 sat Gnarboots at X-Bar, Homestead Lanes, Cupertino a/a $10 8pm **
+oct 20 sat Allen Stone, Tingsek, Sister Sparrow, Yuna, Selah Sue
+       at the El Rey Theater, Chico a/a $15/$18 7pm/8pm # **
+oct 21 sun indie-mart at thee Parkside, S.F. a/a free noon til 7pm
+oct 21 sun Tony Lucca, Justin Hopkins at Cafe Du Nord, S.F. 21+ $15 9pm **
+oct 22 mon Dan Deacon, Height With Friends, Chester Endersby Gwazda,
+       Alan Resnick at the Catalyst Atrium, Santa Cruz 16+ $15 8:30pm/9pm **
+oct 23 tue Dan Deacon, Height With Friends, Chester Endersby Gwazda,
+       Alan Resnick at the Great American Music Hall, S.F. 6+ **
+oct 23 tue Calexico, The Dodos at the Fillmore, S.F. a/a 8pm # **
+oct 23 tue From The Jam, Right The Stars, Odd Numbers
+       at the Blank Club, San Jose 21+ $20/$25 8pm ***
+oct 23 tue Motion City Soundtrack, Jukebox The Ghost, Not Now
+       at the Ace of Spades, Sacramento a/a **
+oct 24 wed Rasputina, Faun Fables at the Great American Music Hall, S.F. 6+ **
+oct 24 wed Lord Huron at the Independent, S.F. 21+ $12/$14 8pm **
+oct 24 wed Alesana at the Ace of Spades, Sacramento a/a **
+oct 25 thr Staff Benda Bilili at Slim's, S.F. 6+ **
+oct 25 thr Brother Ali, Blank Tape Beloved, Homeboy Sandman, dj Sosa,
+       The Reminders at the Fillmore, S.F. a/a 8pm # **
+oct 26 fri Slough Feg, Skelator at the Hemlock, S.F. 21+ **
+oct 26 fri John Mayall at the Uptown Theater, Napa 21+ 8pm **
+oct 26 fri Brother /Ali, Blank Tape Beloved, Homeboy Sandman dj Sosa,
+       The Reminders at the Catalyst, Santa Cruz 16+ $14/$19 8pm/9pm **
+nov  2 fri Judgement Day at the Uptown, Oakland 21+ free 6pm/9pm **
+nov  2 fri Destroyer (tribute), Loverdrive (tribute), Cruella (tribute)
+       at Club Fox, 2209 Broadway, Redwood City 21+ **
+nov  3 sat The Grannies, Go Time! at Bender's, S.F. 21+ $5 10pm **
+       (Benefit for Blixa)
+nov  3 sat Zammuto at the Independent, S.F. 21+ $15 9pm **
+nov  3 sat Black Tooth at Winter's Tavern, Pacifica 21+ **
+nov  5 mon Jens Lekman, Taken By Trees at the Fillmore, S.F. a/a 8pm # **
+nov  7 wed Leonard Cohen at the Shark Tank, San Jose a/a 8pm # **
+nov  8 thr Benjamin Francis Leftwich
+       at the Bottom of the Hill, S.F. a/a $10/$12 8:30pm/9pm **
+nov  9 fri Eric Church, Justin Moore, Kip Moore
+       at the Shark Tank, San Jose a/a 7:30pm # **
+nov 10 sat The Jon Spencer Blues Explosion
+       at the Great American Music Hall, S.F. 6+ **
+nov 10 sat Eric Church, Justin Moore, Kip Moore
+       at the Pavilion, 1 Sports Parkway, Sacramento a/a 7:30pm a/a # **
+nov 11 sun Eric Church, Justin Moore, Kip Moore
+       at Reno Events Center, 300 N Center St., Reno, NV a/a 7pm # **
+nov 14 wed Epica, Alestorm, Insomnium, System Divide, Destiny Potato
+       at the Regency Ballroom, S.F. a/a # ***
+nov 14 wed Minus The Bear, Cursive, Girl In A Coma
+       at the Ace of Spades, Sacramento a/a ***
+nov 15 thr The Rezillos at the Uptown, Oakland 21+ $13/$15 9pm *** @
+nov 15 thr Rush at the Shark Tank, San Jose a/a $126-$46 6:30pm/7:30pm # ***
+nov 15 thr The Fresh Beat Band
+       at Reno Events Center, Reno, NV a/a 7pm # ** (kids band)
+nov 16 wed Morrissey at Davies Symphony Hall, 201 Van Ness Ave., S.F. a/a # ***
+nov 16 wed The Rezillos (Scotland), The Phenomenauts,
+       Jonny Manak & The Depressives
+       at the Blank Club, San Jose 21+ $13/$15 9pm *** @
+nov 18 sun The Fresh Beat Band
+       at Nob Hill Masonic Center, S.F. a/a 5:30pm # ** (kids band)
+nov 18 sun Russell Peters at the Shark Tank, San Jose a/a 7:30pm # **
+nov 23 fri Andrea Bocelli at the Shark Tank, San Jose a/a 8pm # **
+nov 27 sun Alice Cooper at the Warfield, S.F. a/a # *** @ $
+dec  1 thr Simian Mobile Disco at the Mezzanine, S.F. 21+ ***
+dec 13 thr Chris Isaak
+       at the Knob Hill Masonic, S.F. a/a $125-$50 $7pm/8pm # ***
+dec 15 sat The Parov Stelar Trio at the Regency Ballroom, S.F. a/a 9pm # **
+dec 31 sat Above & Beyound, Ferry Corsten, Dash Berlin, Andy Moor
+       at the Arena, Oakland 18+ 5pm til 2am # **
+
+	*    recommendable Shows		a/a  all ages
+	$    will probably sell out		@    pit warning
+	^    under 21 must pay more		#    no ins/outs
+
+			Live Radio Shows
+			----------------
+
+			Radio/TV Shows
+			---------------
+Berkeley Liberation Radio 104.1FM	www.berkeleyliberationradio.net
+Maximum Rock'n'roll Radio		radio.maximumrocknroll.com
+Pirate Cat Radio 87.9FM			www.piratecatradio.com
+KVHS-FM 90.5 The Edge			www.kvhs.com
+
+mon  Next Big Thing on UC Berkeley Radio KALX 90.7FM 6pm-7pm
+tue  Dead Air with dj Vicious and dj Tanner
+     on Berkeley Liberation Radio 104.1FM 6pm-8pm
+wed  Wednesday Night Live on Stanford Radio KZSU 90.1FM 9pm-10pm
+sat  KALX live on UC Berkeley Radio KALX 90.7FM 9pm-midnight
+sun  Rampage Radio on S.F. State Radio in exile KUSF 2am-8am
+sun  NewHotBands on public access TV Comcast Ch 29 12:30pm
+sun  Earwhacks with Paul and Che on Sacramento KRXQ 98.5FM 10pm-11:30pm
+sun  Neonate with Punk Roge and Riot on UC Davis Radio KDVS 90.3FM 12am-2am
+
+	C L U B     I N F O R M A T I O N
+-----------------------------------------------------------------------------
+1-2-3-4 Go! Records, 420 40th, Oakland a/a (shows over by 10pm)	510-985-0325
+23 Club, 23 Visitacion Avenue, Brisbane a/a			415-467-7717
+Ace of Spades, 1417 R Street, Sacramento a/a
+Alley, 906 Victorian Way, Sparks, NV a/a
+Amoeba Music, 2455 Telegraph, Berkeley a/a			510-549-1125
+Amoeba Music, 1855 Haight, S.F. a/a				415-831-1200
+Avalon Nightclub, 777 Lawrance Expressway, Santa Clara a/a 21+	408-241-0777
+Bender's Bar & Grill, 806 South Van Ness Ave., S.F. 21+		415-824-1800
+Bimbo's 365 Club, 1025 Columbus Avenue, S.F. 21+ 18+		415-474-0365
+Blake's, 2367 Telegraph, Berkeley a/a 18+			510-848-0886
+Blank Club, 44 South Almaden Avenue, San Jose 21+
+Blue Lamp Lounge, 1400 Alhambra Blvd., Sacramento 21+		866-575-9405
+Blue Lagoon, 923 Pacific Avenue, Santa Cruz 21+			831-423-7117
+Boardwalk, 9426 Greenback Lane, Orangevale a/a			916-988-9247
+Boom Boom Room, 1601 Fillmore, S.F. 21+				415-673-8000
+Bottom of the Hill, 1233 17th St., S.F. a/a 21+			415-621-4455
+Brick & Mortar Music Hall, 1710 Mission Street, S.F. 21+ 18+	415-371-1631
+Cache Creek Casino Resort, 14455 Highway 16, Brooks 21+
+Cafe Du Nord, Inc., 2170 Market Street, S.F. 21+		415-861-5016
+Cafe Cocomo, 650 Indiana at Mariposa, S.F. 21+
+Catalyst, 1011 Pacific Ave., Santa Cruz a/a book 831-423-1338	831-423-1336
+Cell Space, 2050 Bryant at 18th, S.F. a/a
+Crepe Place, 1134 Soquel Ave. Santa Cruz a/a			831-429-6994
+DNA Lounge, 375 11th Street at Harrison, S.F. 21+ a/a		415-626-1409
+Disco Volante, 247 14th Street at Webster, Oakland a/a		510-663-0271
+Dosa Biryani, 250 E Java Drive, Sunnyvale a/a			408-400-0007
+El Rey Theatre, 230 West 2nd St., Chico 18+ (a/a with adult)	530-342-2727
+El Rincon, 2700 16th Street at Harrison, S.F. 21+ 18+
+El Rio, 3158 Mission Street, S.F., 21+				415-282-3325
+Elbo Room, 647 Valencia near 17th St., S.F. 21+			415-552-7788
+Eli's Mile High Club, 3629 Martin Luther King Jr. Way, Oakland 21+
+Fillmore, 1805 Geary Blvd., S.F. a/a				415-346-6000
+  leave soon after the last band for a free poster at the exit
+Fox Theater, 1807 Telegraph Avenue, Oakland a/a
+Gilman, 924 Gilman St. at 8th, Berkeley a/a book 510-524-8180	510-525-9926
+  ($2 yearly membership required) http://www.924gilman.org
+  5pm membership meetings 1st and 3rd sat. of each month
+George's, 842 Fourth St., San Rafael 21+			415-457-1515
+Great American Music Hall, 859 O'Farrell, S.F. ages 6+		415-885-0750
+Harlow's, 2708 J Street, Sacramento 21+				916-441-4693
+Hemlock, 1131 Polk at Post, S.F. 21+				415-923-0923
+Henfling's Firehouse Tavern, 9450 Highway 9, Ben Lomond 21+	408-335-1642
+Hotel Utah Saloon, 500 4th St. at Bryant, S.F. 21+		415-546-6300
+Independent, 628 Divisadero, S.F. 21+				415-771-1420
+Johnny Foley's Irish House, 243 O'Farrell Street, S.F. 21+	415-954-0777
+Knitting Factory, 211 North Virginia Street, Reno, NV a/a	775-323-5648
+Knockout, 3223 Mission St., S.F. 21+				415-550-6994
+Konocti Harbor, 8727 Doda Bay Road, Kelseyville a/a		800-660-LAKE
+Li-Po Lounge, 916 Grant Ave., S.F. 21+
+Mama Buzz Cafe, 2318 Telegraph at 23rd., Oakland a/a		510-465-4073
+Make-Out Room, 3225 22nd St. at Mission, S.F. 21+		415-647-2888
+Metro, 630 3rd St. at M.L.K., Oakland a/a			510-763-1146
+Mezzanine, 444 Jessie Street at Mint, S.F. 21+			415-625-8880
+Milk Bar, 1840 Haight Street, S.F. 21+				415-387-6455
+Mountain Winery, 14831 Pierce Road, Saratoga a/a		408-741-2822
+Monstros Pizza, 628 W. Sacramento Avenue, Chico a/a
+Montalvo Arts Center, 15400 Montalvo Road, Saratoga a/a		408-961-5800
+Mystic Theater, 23 Petaluma Blvd., Petaluma a/a 18+ 21+		707-765-2121
+New Parish, 579 18th at San Pablo Avenue, Oakland 21+ 18+ a/a
+Nickel City, 1711 Branham Lane, San Jose a/a			408-448-3323
+Nob Hill Masonic Center, 1111 California Street, S.F. a/a
+Octopus Lounge, 180 Eureka Square, Pacifica 21+			650-355-7775
+Old Ironsides, 1901 10th St., Sacramento 21+			916-443-9751
+Paramount Theatre, 2025 Broadway, Oakland a/a
+Parkside, 1600 17th St., S.F. 21+				415-503-0393
+Phoenix Theater, 201 Washington St., Petaluma a/a		707-762-3565
+Pine Street Grill, 875 Rincon Ave., Livermore 21+
+Pioneer, 105 Pioneer Street, Santa Cruz a/a
+Pirate Cat Radio Cafe, 2781 21st Street, S.F. a/a
+Pissed Off Pete's, 4528 Mission Street, S.F. 21+
+Plea for Peace Center, 630 E Weber Ave, Stockton a/a
+       ($2 yearly membership)
+Rasputin's Music, 2401 Telegraph, Berkeley a/a			800-350-8700
+Red Devil Lounge, 1695 Polk at Clay, S.F. 21+			415-921-1695
+Red Hat, 1860 Monument Blvd., Concord 21+			925-685- 2122
+Red House, 1667 Botelho Drive, Walnut Creek a/a			925-938-6900
+Regency Ballroom, 1300 Van Ness Avenue, S.F. a/a
+Retox Lounge, 628 20th Street at 3rd, S.F. 21+ a/a		415-626-7386
+Rickshaw Stop, 155 Fell St. at Van Ness, S.F. a/a
+Riptide Bar, 3639 Taraval St., S.F. 21+				415-681-8433
+Rockit Room, 406 Clement at 5th Avenue, S.F. 21+		415-387-6343
+Route 92, 2128 South El Camino Real, San Mateo 21+
+Senator Theatre, 517 Main Street, Chico a/a			530-891-1809
+Shattuck Down Low, 2284 Shattuck Ave., Berkeley 21+		510-548-1159
+Shoreline Amphitheatre, One Amphitheatre Pkwy., Mountain View a/a
+Slim's, 333 11th St., S.F. ages 6+				415-522-0333
+Starry Plough, 3101 Shattuck, Berkeley 21+ (sometimes a/a)	510-841-2082
+Streetlight Records, 980 S. Bascom Ave., San Jose a/a
+Streetlight Records, 939 Pacific Ave., Santa Cruz a/a
+Stork Club, 2330 Telegraph, Oakland 21+				510-444-6174
+Stud Bar, 399 9th Street at Harrison, S.F. 21+			415-863-6623
+Sub-Mission Art Space, 2183 Mission Street, S.F. a/a
+Swedish American Hall, 2170 Market Street, S.F. a/a		415-861-5016
+Swingin' Door, 106 East 25th Avenue, San Mateo 21+
+Terminal, 3957 San Leandro Street, Oakland a/a
+Thrillhouse Records, Mission at 30th, S.F. a/a
+Transient Lounge, 400 E. Todd Road, Santa Rosa a/a
+Warfield, 982 Market St., S.F. a/a				415-775-7722
+Winter's Tavern, 1522 Francisco Blvd., Pacifica 21+
+Uptown, 1928 Telegraph Avenue, Oakland 21+			510-451-8100
+Uptown Theatre, 1350 Third Street, Napa 16+ (12+ with an adult)
+Verdi Club, 2424 Mariposa at Potrero, S.F. a/a			415-505-8530
+Vitus, 201 Broadway @ 2nd., Oakland 21+				510-452-1620
+Vixens, 906 Victorian Avenue, Sparks NV a/a 21+			775-358-6969
+Voodoo Lounge, 14 South Second Street, San Jose 21+		408-286-8636
+X Bar, Homestead Lanes, 20990 Homestead Road, Cupertino a/a	408-255-5700
+Yoshi's, 1330 Fillmore Street, S.F. 21+
+Yoshi's, 510 Embarcadero West, Oakland 21+			510-238-9200
+----------------------------------------------------------------------------
+Please feel free to copy The List and pass out copies to friends.
+----------------------------------------------------------------------------
+The List is e-mailed out each week. Due to cost and time constraints, the
+snail-mailing is only sent out to people that have sent Self Addressed Stamped
+Envelopes  OR  one buck (for two mailings) to:
+
+		The List, PO Box 2701, Richmond, CA 94802-2701
+		skoepke at stevelist dot com
+		List Info:   http://stevelist.com
+
+Refrigerator magnets: $1 postpaid, three for $2 postpaid, or 50 cents at Shows.
+
+A.F.I.			The Gr'ups			M.D.C.
+Mr. T Experience	Naked Aggression		Oppressed Logic
+Pansy Division		Subincision			Strychnine
+Sheephead		Tilt
+
+Note:  Due to spam blocking software, web page URL's are no longer
+       listed below.  See the List Info page for URL's and numbers.
