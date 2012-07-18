@@ -71,6 +71,7 @@ def self.parse_one_show(lines)
 	show = lines[0...line_idx].reduce(:concat)
 
 	m = show.match(SHOW_SPLIT)
+	fail "parse error at:\n\t#{show}" if !m
 
 	show =
 		{
