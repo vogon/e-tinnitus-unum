@@ -7,15 +7,20 @@ def self.read(path)
 	parse(IO.read(path))
 end
 
+# design note: intended to be the most permissive regex which doesn't knowingly break
+# shows in half, so that we don't accidentally string shows together (an error which isn't
+# likely to be caught by a regex)
+private
+SHOW_FIRST_LINE = /^(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec) /
+
+# design note: SHOW_DATE and SHOW_SPLIT are intended to be the most restrictive regexes
+# which don't knowingly fail on listings, so we catch parse errors early
 private
 SHOW_DATE = %r{^
 				(?<dates_month> jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)
 				\s+ (?<dates_day> \d+(/\d+)*)
 				(\s+ (?<dates_dayofweek> sun|mon|tue|wed|thr|fri|sat))?
 			}x
-
-private
-SHOW_FIRST_LINE = /^#{SHOW_DATE}/
 
 private
 SHOW_SPLIT = %r{^
@@ -113,3 +118,22 @@ end
 end # module TheList
 
 end # module Extract
+
+require './global_config'
+require 'model/show'
+
+shows = Extract::TheList.read(ARGV[0])
+
+init_model
+
+shows.each do |show|
+	show[:dates].each do |date|
+		show_model = Show.new
+		show_model.date = date
+		show_model.bill = show[:bill]
+		show_model.venue = show[:venue]
+		show_model.raw = show[:raw]	
+
+		show_model.save
+	end
+end
